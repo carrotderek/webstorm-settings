@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".alias.osx" type="PLAIN_TEXT" />
+      <mapping pattern="MakeFile" type="PLAIN_TEXT" />
       <mapping pattern="CaskFile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="BrewFile" type="PLAIN_TEXT" />
