@@ -209,10 +209,6 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-daytime-phone.component.ubs.html" timestamp="1557288496667">
         <mark key="[" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/development/dotfiles/system/.alias" timestamp="1559933822241">
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_core/src/app/translations/en/ubs/assessment-overrides.ts" timestamp="1557243836773">
         <mark key="[" line="28" column="16" />
       </file>
@@ -268,8 +264,8 @@
         <mark key="[" line="346" column="23" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/system/.alias.zsh" timestamp="1559938467006" />
-      <file name="/Dummy.txt" timestamp="1559843294215">
-        <mark key="[" line="0" column="15" />
+      <file name="/Dummy.txt" timestamp="1559941215210">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
@@ -282,15 +278,10 @@
       <file name="$USER_HOME$/development/sigfig/ngts/scripts/just-test.ts" timestamp="1559673652900">
         <mark key="[" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/development/test-shell/self-react/webpack.config.js" timestamp="1559883157166">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-        <mark key="o" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-email-dropdown.component.html" timestamp="1557431039857">
         <mark key="[" line="23" column="46" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_73.json" timestamp="1559941212355" />
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
