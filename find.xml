@@ -1,0 +1,36 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.*" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.html1</mask>
+    <mask>*-overrides*.*</mask>
+    <mask>*.js</mask>
+    <mask>*.directive.*</mask>
+    <mask>**.*</mask>
+    <mask>*.scss</mask>
+    <mask>*.service.*</mask>
+    <mask>*bundle.ts</mask>
+    <mask>*Test.*</mask>
+    <mask>*test.*</mask>
+    <mask>*.override.*.ts</mask>
+    <mask>*.override.*</mask>
+    <mask>*test.js</mask>
+    <mask>*.html</mask>
+    <mask>*.test.*</mask>
+    <mask>*service.*</mask>
+    <mask>*.ts</mask>
+    <mask>*.*</mask>
+    <mask>*.*</mask>
+  </component>
+</application>
