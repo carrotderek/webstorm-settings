@@ -39,6 +39,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.json" timestamp="1557175636375">
         <mark key="[" line="507" column="5" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/read-only-spoof/post-handlers/onboarding/onboarding-endpoints.data.ts" timestamp="1559764242114">
+        <mark key="[" line="7" column="55" />
+      </file>
+      <file name="$USER_HOME$/development/dotfiles/system/.alias.osx" timestamp="1559933959832">
+        <mark key="[" line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.ts" timestamp="1559595876693">
         <mark key="[" line="305" column="81" />
         <mark key="]" line="39" column="36" />
@@ -146,18 +152,22 @@
         <mark key="." line="42" column="80" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof/spoof-user.service.ubs.ts" timestamp="1559834620231" />
+      <file name="$USER_HOME$/development/dotfiles/install/CaskFile" timestamp="1559934677764">
+        <mark key="[" line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/jwt/jwtIngestionServiceTest.js" timestamp="1558973222962">
         <mark key="[" line="54" column="50" />
         <mark key="]" line="54" column="50" />
         <mark key="." line="54" column="50" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/development/dotfiles/system/.zshrc" timestamp="1559926992972">
-        <mark key="'" line="92" column="12" />
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/development/dotfiles/system/.zshrc" timestamp="1559933611177">
+        <mark key="'" line="86" column="12" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/development/dotfiles/git/.gitignore" timestamp="1559934998354" />
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ts" timestamp="1559585619516">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -214,6 +224,14 @@
         <mark key="]" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/development/dotfiles/install/BrewFile" timestamp="1559934654249">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/dotfiles/system/BrewFile" timestamp="1559934321039">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/whats-happening.md" timestamp="1559924846372">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="76" column="0" />
@@ -252,8 +270,15 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-daytime-phone.component.ubs.html" timestamp="1557288496667">
         <mark key="[" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/development/dotfiles/system/.alias" timestamp="1559933822241">
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_core/src/app/translations/en/ubs/assessment-overrides.ts" timestamp="1557243836773">
         <mark key="[" line="28" column="16" />
+      </file>
+      <file name="$USER_HOME$/development/dotfiles/git/.gitconfig" timestamp="1559934900477">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/partners/wellsfargo/configs/config_base.js" timestamp="1556643909250">
         <mark key="[" line="53" column="0" />
@@ -265,6 +290,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/dotfiles/git/ignore" timestamp="1559935092352">
+        <mark key="[" line="39" column="6" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/plan/plan-authenticated.service.ts" timestamp="1557777857831">
         <mark key="[" line="202" column="83" />
@@ -358,8 +386,8 @@
       <jump line="92" column="12" filename="$USER_HOME$/development/dotfiles/system/.zshrc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW5zdGFsbCBjYXNrcm9vbS9jYXNrL2JyZXctY2FzawpjYXNrIGluc3RhbGwgdmlydHVhbGJveApjYXNrIGluc3RhbGwgdmFncmFudAoKY2FzayBpbnN0YWxsIGdvb2dsZS1jaHJvbWUKY2FzayBpbnN0YWxsIGl0ZXJtMgpjYXNrIGluc3RhbGwgd2Vic3Rvcm0KY2FzayBpbnN0YWxsIHNlcXVlbC1wcm8KCmNhc2sgaW5zdGFsbCBzbGFjawpjYXNrIGluc3RhbGwgdGhlLXVuYXJjaGl2ZXIKCg==</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
@@ -373,34 +401,32 @@
       <register name="0" type="2">
         <text encoding="base64">PGRpdiBuZy1pZj0iZ3VpZGFuY2UucmVhZHkgJiYgIWd1aWRhbmNlLmhhc05vRWxpZ2libGVBY2NvdW50cyAmJiBndWlkYW5jZS5oYXNQZW5kaW5nQ29waWxvdFBvcnRmb2xpb3MgJiYgIWd1aWRhbmNlLmhhc1BlbmRpbmdKb2ludFNpZ25lZSI+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">aW5zdGFsbCBjYXNrcm9vbS9jYXNrL2JyZXctY2FzawpjYXNrIGluc3RhbGwgdmlydHVhbGJveApjYXNrIGluc3RhbGwgdmFncmFudAoKY2FzayBpbnN0YWxsIGdvb2dsZS1jaHJvbWUKY2FzayBpbnN0YWxsIGl0ZXJtMgpjYXNrIGluc3RhbGwgd2Vic3Rvcm0KY2FzayBpbnN0YWxsIHNlcXVlbC1wcm8KCmNhc2sgaW5zdGFsbCBzbGFjawpjYXNrIGluc3RhbGwgdGhlLXVuYXJjaGl2ZXIKCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZXhwb3J0IFRUQ19CT1RTPSd0aW55Y2FyZWJvdCxzZWxmY2FyZV9ib3QsbWFnaWNyZWFsaXNtYm90JwojIFVzZSB0aGlzIHRvIGhhdmUgYSBkaWZmZXJlbnQgYW5pbWFsIHNheSBhIG1lc3NhZ2UgaW4gdGhlIGJpZyBib3guIFlvdSBjYW4gYWxzbyB1c2UgYW55IG9mIHRoZSBmb2xsb3dpbmcgYW5pbWFscyBpZiB5b3Ugc28gY2hvb3NlOiBwYXJyb3QsIGJ1bm55LCBsbGFtYSwgY2F0LCB5ZW9tYW4sIG1hcmlvLCBpcm9ubWFuLCBtaW5pb25zLCBwYW5kYQpleHBvcnQgVFRDX1NBWV9CT1g9J3BhbmRhJwpleHBvcnQgVFRDX1JFUE9TPSd+L2RldmVsb3BtZW50JwpleHBvcnQgVFRDX1JFUE9TX0RFUFRIPTMKZXhwb3J0IFRUQ19HSVRCT0c9J2dpdHN0YW5kdXAnCmV4cG9ydCBUVENfV0VBVEhFUj0nQ2FsZ2FyeSwgQ2FuYWRhJwpleHBvcnQgVFRDX0NFTFNJVVM9dHJ1ZQpleHBvcnQgVFRDX0FQSUtFWVM9ZmFsc2UKZXhwb3J0IFRUQ19VUERBVEVfSU5URVJWQUw9MjAKZXhwb3J0IFRUQ19URVJNSU5BTF9USVRMRT1mYWxzZQphbGlhcyB0aW55PSd0aW55LWNhcmUtdGVybWluYWwnCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>resolve: {
-        
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBybSAtcmYgIiQxIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZnVjaygpIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQl1c2VyU2VydmljZS53aGVuTG9hZGVkKCkudGhlbigoKSA9PiB7CgkJCWNvbnNvbGUubG9nKHVzZXJTZXJ2aWNlLmlzV3JpdGVTcG9vZlNlc3Npb24oKSk7CgkJfSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KCkgPT4gewoJCQljb25zb2xlLmxvZyh1c2VyU2VydmljZS5pc1dyaXRlU3Bvb2ZTZXNzaW9uKCkpOwoJCX0pOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">IGVjaG8gLW4gIiRpcCIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">IGxvY2FsIGlwPSQoaWZjb25maWcgZW4wIHwgZ3JlcCBpbmV0IHwgYXdrICd7cHJpbnQgJDJ9JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAoYXBwQ29uZmlnLlNQT09GX01PREUpIHsK</text>
+        <text encoding="base64">enNoX2N1c3RvbV9pcCgpewo=</text>
       </register>
     </registers>
     <search>
