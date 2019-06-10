@@ -125,11 +125,11 @@
         <mark key="." line="88" column="7" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/git/.gitignore" timestamp="1559934998354" />
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/spoofHandlerServiceTest.js" timestamp="1560184257176">
-        <mark key="[" line="43" column="42" />
-        <mark key="]" line="43" column="42" />
-        <mark key="." line="43" column="42" />
-        <mark key="^" line="25" column="0" />
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/spoofHandlerServiceTest.js" timestamp="1560191023384">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="55" column="80" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ts" timestamp="1559585619516">
         <mark key="[" line="24" column="0" />
@@ -167,7 +167,7 @@
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/assessment/assessment-setup/assessment-setup.directive.scss" timestamp="1557157868888">
         <mark key="[" line="26" column="46" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof-handler/spoof-handler.service.ts" timestamp="1560183855611">
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof-handler/spoof-handler.service.ts" timestamp="1560190998319">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="24" column="16" />
         <mark key="." line="24" column="16" />
@@ -266,7 +266,7 @@
         <mark key="[" line="346" column="23" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/system/.alias.zsh" timestamp="1559938467006" />
-      <file name="/Dummy.txt" timestamp="1559941215210">
+      <file name="/Dummy.txt" timestamp="1560187602158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -318,13 +318,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>params</text>
+        <text encoding="base64">CQl0aGlzLnRlc3RPdmVycmlkZGVuUGFyYW1zID0gZnVuY3Rpb24obWV0aG9kLCBkYXRhKSB7CgkJCWNvbnN0IHJlc3VsdCA9IHRoaXMudGVzdFBhcmFtcyhtZXRob2QsIGRhdGEpOwoJCQljb25zdCBtZXRob2RLZXkgPSB0aGlzLnRlc3RpbmdDb25maWdbbWV0aG9kXS5rZXk7CgkJCQoJCQlpZiAoKSB7CgkJCQlleHBlY3QocmVzdWx0W21ldGhvZEtleV0pLnRvQ29udGFpbihgJm92ZXJyaWRkZW5TaXRlVG9rZW49JHt0aGlzLm92ZXJyaWRlblNpdGVUb2tlbn0mb3ZlcnJpZGRlblVzZXJJZD0ke3RoaXMub3ZlcnJpZGRlbklkfWApOwoJCQl9IGVsc2UgewoJCQkJZXhwZWN0KHJlc3VsdFttZXRob2RLZXldLikKCQkJfQoJCX0=</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>his.testingConfig[method].key</text>
       </register>
       <register name="/" type="4">
         <text>oh-my</text>
@@ -333,33 +333,33 @@
         <text encoding="base64">PGRpdiBuZy1pZj0iZ3VpZGFuY2UucmVhZHkgJiYgIWd1aWRhbmNlLmhhc05vRWxpZ2libGVBY2NvdW50cyAmJiBndWlkYW5jZS5oYXNQZW5kaW5nQ29waWxvdFBvcnRmb2xpb3MgJiYgIWd1aWRhbmNlLmhhc1BlbmRpbmdKb2ludFNpZ25lZSI+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CQkJCWJlZm9yZUVhY2goZnVuY3Rpb24oKSB7CgkJCQkJY29uZmlnID0gdGhpcy5zZXJ2aWNlLnJlcXVlc3QoewoJCQkJCQltZXRob2Q6ICJHRVQiLAoJCQkJCQl1cmw6ICIvdGVzdC91cmwiCgkJCQkJfSk7CgkJCQl9KTs=</text>
+        <text encoding="base64">CQl0aGlzLnRlc3RPdmVycmlkZGVuUGFyYW1zID0gZnVuY3Rpb24obWV0aG9kLCBkYXRhKSB7CgkJCWNvbnN0IHJlc3VsdCA9IHRoaXMudGVzdFBhcmFtcyhtZXRob2QsIGRhdGEpOwoJCQljb25zdCBtZXRob2RLZXkgPSB0aGlzLnRlc3RpbmdDb25maWdbbWV0aG9kXS5rZXk7CgkJCQoJCQlpZiAoKSB7CgkJCQlleHBlY3QocmVzdWx0W21ldGhvZEtleV0pLnRvQ29udGFpbihgJm92ZXJyaWRkZW5TaXRlVG9rZW49JHt0aGlzLm92ZXJyaWRlblNpdGVUb2tlbn0mb3ZlcnJpZGRlblVzZXJJZD0ke3RoaXMub3ZlcnJpZGRlbklkfWApOwoJCQl9IGVsc2UgewoJCQkJZXhwZWN0KHJlc3VsdFttZXRob2RLZXldLikKCQkJfQoJCX0=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CQkJCWNvbmZpZyA9IHRoaXMuc2VydmljZS5yZXF1ZXN0KHsKCQkJCQltZXRob2Q6ICJHRVQiLAoJCQkJCXVybDogIi90ZXN0L3VybCIKCQkJCX0pOw==</text>
+        <text encoding="base64">CgkJCQltZXRob2Q6IG1ldGhvZCwKCQkJCXVybDogInRlc3QvZ2V0IiwKCQkJfQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CQkJCgkJCSBjb25maWcgPSB0aGlzLnNlcnZpY2UucmVxdWVzdCh7CgkJCQltZXRob2Q6ICJHRVQiLAoJCQkJdXJsOiAiL3Rlc3QvdXJsIgoJCQl9KTs=</text>
+        <text encoding="base64">CQkJCWJlZm9yZUVhY2goZnVuY3Rpb24oKSB7CgkJCQkJY29uZmlnID0gdGhpcy5zZXJ2aWNlLnJlcXVlc3QoewoJCQkJCQltZXRob2Q6ICJHRVQiLAoJCQkJCQl1cmw6ICIvdGVzdC91cmwiCgkJCQkJfSk7CgkJCQl9KTs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNvbmZpZyA9IHRoaXMuc2VydmljZS5yZXF1ZXN0KHsKCQkJCQltZXRob2Q6ICJHRVQiLAoJCQkJCXVybDogIi90ZXN0L3VybCIKCQkJCX0pOw==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CQkJCgkJCSBjb25maWcgPSB0aGlzLnNlcnZpY2UucmVxdWVzdCh7CgkJCQltZXRob2Q6ICJHRVQiLAoJCQkJdXJsOiAiL3Rlc3QvdXJsIgoJCQl9KTs=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>resolve: {
         
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQl1c2VyU2VydmljZS53aGVuTG9hZGVkKCkudGhlbigoKSA9PiB7CgkJCWNvbnNvbGUubG9nKHVzZXJTZXJ2aWNlLmlzV3JpdGVTcG9vZlNlc3Npb24oKSk7CgkJfSk7</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">KCkgPT4gewoJCQljb25zb2xlLmxvZyh1c2VyU2VydmljZS5pc1dyaXRlU3Bvb2ZTZXNzaW9uKCkpOwoJCX0pOw==</text>
       </register>
     </registers>
     <search>

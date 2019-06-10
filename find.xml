@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*test.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,12 +25,12 @@
     <mask>*test.*</mask>
     <mask>*.override.*.ts</mask>
     <mask>*.override.*</mask>
-    <mask>*test.js</mask>
     <mask>*.html</mask>
     <mask>*.test.*</mask>
     <mask>*service.*</mask>
     <mask>*.ts</mask>
     <mask>*.*</mask>
     <mask>*.*</mask>
+    <mask>*test.js</mask>
   </component>
 </application>
