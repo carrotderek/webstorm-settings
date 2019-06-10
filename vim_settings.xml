@@ -125,11 +125,9 @@
         <mark key="." line="88" column="7" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/git/.gitignore" timestamp="1559934998354" />
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/spoofHandlerServiceTest.js" timestamp="1560191023384">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="55" column="80" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/spoofHandlerServiceTest.js" timestamp="1560193976682">
+        <mark key="'" line="96" column="61" />
+        <mark key="[" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ts" timestamp="1559585619516">
         <mark key="[" line="24" column="0" />
@@ -167,10 +165,10 @@
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/assessment/assessment-setup/assessment-setup.directive.scss" timestamp="1557157868888">
         <mark key="[" line="26" column="46" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof-handler/spoof-handler.service.ts" timestamp="1560190998319">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof-handler/spoof-handler.service.ts" timestamp="1560193807444">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
         <mark key="^" line="24" column="16" />
       </file>
       <file name="$USER_HOME$/development/test-shell/self-react/src/index.tsx" timestamp="1559882472314">
@@ -266,7 +264,7 @@
         <mark key="[" line="346" column="23" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/system/.alias.zsh" timestamp="1559938467006" />
-      <file name="/Dummy.txt" timestamp="1560187602158">
+      <file name="/Dummy.txt" timestamp="1560193504369">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -315,16 +313,17 @@
       <jump line="34" column="15" filename="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/recipient-state/recipient-state.service.ts" />
       <jump line="11" column="77" filename="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/recipient-state/recipient-state.service.override.ubs.ts" />
       <jump line="57" column="8" filename="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio-compact.directive.html" />
+      <jump line="94" column="61" filename="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/spoofHandlerServiceTest.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQl0aGlzLnRlc3RPdmVycmlkZGVuUGFyYW1zID0gZnVuY3Rpb24obWV0aG9kLCBkYXRhKSB7CgkJCWNvbnN0IHJlc3VsdCA9IHRoaXMudGVzdFBhcmFtcyhtZXRob2QsIGRhdGEpOwoJCQljb25zdCBtZXRob2RLZXkgPSB0aGlzLnRlc3RpbmdDb25maWdbbWV0aG9kXS5rZXk7CgkJCQoJCQlpZiAoKSB7CgkJCQlleHBlY3QocmVzdWx0W21ldGhvZEtleV0pLnRvQ29udGFpbihgJm92ZXJyaWRkZW5TaXRlVG9rZW49JHt0aGlzLm92ZXJyaWRlblNpdGVUb2tlbn0mb3ZlcnJpZGRlblVzZXJJZD0ke3RoaXMub3ZlcnJpZGRlbklkfWApOwoJCQl9IGVsc2UgewoJCQkJZXhwZWN0KHJlc3VsdFttZXRob2RLZXldLikKCQkJfQoJCX0=</text>
+        <text>config</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
       </register>
       <register name="-" type="4">
-        <text>his.testingConfig[method].key</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text>oh-my</text>
@@ -332,33 +331,31 @@
       <register name="0" type="2">
         <text encoding="base64">PGRpdiBuZy1pZj0iZ3VpZGFuY2UucmVhZHkgJiYgIWd1aWRhbmNlLmhhc05vRWxpZ2libGVBY2NvdW50cyAmJiBndWlkYW5jZS5oYXNQZW5kaW5nQ29waWxvdFBvcnRmb2xpb3MgJiYgIWd1aWRhbmNlLmhhc1BlbmRpbmdKb2ludFNpZ25lZSI+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CQl0aGlzLnRlc3RPdmVycmlkZGVuUGFyYW1zID0gZnVuY3Rpb24obWV0aG9kLCBkYXRhKSB7CgkJCWNvbnN0IHJlc3VsdCA9IHRoaXMudGVzdFBhcmFtcyhtZXRob2QsIGRhdGEpOwoJCQljb25zdCBtZXRob2RLZXkgPSB0aGlzLnRlc3RpbmdDb25maWdbbWV0aG9kXS5rZXk7CgkJCQoJCQlpZiAoKSB7CgkJCQlleHBlY3QocmVzdWx0W21ldGhvZEtleV0pLnRvQ29udGFpbihgJm92ZXJyaWRkZW5TaXRlVG9rZW49JHt0aGlzLm92ZXJyaWRlblNpdGVUb2tlbn0mb3ZlcnJpZGRlblVzZXJJZD0ke3RoaXMub3ZlcnJpZGRlbklkfWApOwoJCQl9IGVsc2UgewoJCQkJZXhwZWN0KHJlc3VsdFttZXRob2RLZXldLikKCQkJfQoJCX0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CS8vIEludGVyY2VwdG9yIGZvciBhZGRpbmcgb3ZlcnJpZGRlbiB1c2VyIElEcwoJcHJpdmF0ZSByZXF1ZXN0SGFuZGxlciguLi5hcmdzOiBQYXJhbWV0ZXJzPG5nLklIdHRwSW50ZXJjZXB0b3JbInJlcXVlc3QiXT4pIHsKCQljb25zdCBbY29uZmlnXSA9IGFyZ3M7CgkJY29uc3Qgb3ZlcnJpZGVVc2VyU2VydmljZSA9IHRoaXMuJGluamVjdG9yLmdldDxPdmVycmlkZVVzZXJTZXJ2aWNlPigib3ZlcnJpZGVVc2VyU2VydmljZSIpOwoJCWNvbnN0IHVzZXJTZXJ2aWNlID0gdGhpcy4kaW5qZWN0b3IuZ2V0PFVzZXJTZXJ2aWNlPigidXNlclNlcnZpY2UiKTsKCQljb25zdCBhcHBDb25maWcgPSB0aGlzLiRpbmplY3Rvci5nZXQ8RmFtQ29uZmlnPigiY29uZmlnIik7CgkJY29uc29sZS5sb2coY29uZmlnKTsKCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CgkJCQltZXRob2Q6IG1ldGhvZCwKCQkJCXVybDogInRlc3QvZ2V0IiwKCQkJfQ==</text>
+        <text encoding="base64">CQl0aGlzLnRlc3RpbmdDb25maWcgPSB7CgkJCUdFVDogeyBrZXk6ICJwYXJhbXMiIH0sCgkJCVBPU1Q6IHsga2V5OiAiZGF0YSIgfSwKCQl9Ow==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CQkJCWJlZm9yZUVhY2goZnVuY3Rpb24oKSB7CgkJCQkJY29uZmlnID0gdGhpcy5zZXJ2aWNlLnJlcXVlc3QoewoJCQkJCQltZXRob2Q6ICJHRVQiLAoJCQkJCQl1cmw6ICIvdGVzdC91cmwiCgkJCQkJfSk7CgkJCQl9KTs=</text>
+        <text encoding="base64">CQkJaXQoImRvZXMgbm90IG1vZGlmeSBxdWVyeSBwYXJhbXMgaWYgdGhlcmUgYXJlIG5vbmUiLCBmdW5jdGlvbigpIHsKCQkJCQl0aGlzLnRlc3RQYXJhbXMoIkdFVCIsIHRoaXMudGVzdFF1ZXJ5U3RyaW5ncyk7CgkJCQl9KTs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CQkJCWNvbmZpZyA9IHRoaXMuc2VydmljZS5yZXF1ZXN0KHsKCQkJCQltZXRob2Q6ICJHRVQiLAoJCQkJCXVybDogIi90ZXN0L3VybCIKCQkJCX0pOw==</text>
+        <text encoding="base64">CQl0aGlzLnRlc3RPdmVycmlkZGVuUGFyYW1zID0gZnVuY3Rpb24obWV0aG9kLCBkYXRhKSB7CgkJCWNvbnN0IHJlc3VsdCA9IHRoaXMudGVzdFBhcmFtcyhtZXRob2QsIGRhdGEpOwoJCQljb25zdCBtZXRob2RLZXkgPSB0aGlzLnRlc3RpbmdDb25maWdbbWV0aG9kXS5rZXk7CgkJCQoJCQlpZiAoKSB7CgkJCQlleHBlY3QocmVzdWx0W21ldGhvZEtleV0pLnRvQ29udGFpbihgJm92ZXJyaWRkZW5TaXRlVG9rZW49JHt0aGlzLm92ZXJyaWRlblNpdGVUb2tlbn0mb3ZlcnJpZGRlblVzZXJJZD0ke3RoaXMub3ZlcnJpZGRlbklkfWApOwoJCQl9IGVsc2UgewoJCQkJZXhwZWN0KHJlc3VsdFttZXRob2RLZXldLikKCQkJfQoJCX0=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CQkJCgkJCSBjb25maWcgPSB0aGlzLnNlcnZpY2UucmVxdWVzdCh7CgkJCQltZXRob2Q6ICJHRVQiLAoJCQkJdXJsOiAiL3Rlc3QvdXJsIgoJCQl9KTs=</text>
+        <text encoding="base64">CgkJCQltZXRob2Q6IG1ldGhvZCwKCQkJCXVybDogInRlc3QvZ2V0IiwKCQkJfQ==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWJlZm9yZUVhY2goZnVuY3Rpb24oKSB7CgkJCQkJY29uZmlnID0gdGhpcy5zZXJ2aWNlLnJlcXVlc3QoewoJCQkJCQltZXRob2Q6ICJHRVQiLAoJCQkJCQl1cmw6ICIvdGVzdC91cmwiCgkJCQkJfSk7CgkJCQl9KTs=</text>
       </register>
       <register name="7" type="4">
-        <text>resolve: {
-        
-    }</text>
+        <text encoding="base64">CQkJCWNvbmZpZyA9IHRoaXMuc2VydmljZS5yZXF1ZXN0KHsKCQkJCQltZXRob2Q6ICJHRVQiLAoJCQkJCXVybDogIi90ZXN0L3VybCIKCQkJCX0pOw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CQkJCgkJCSBjb25maWcgPSB0aGlzLnNlcnZpY2UucmVxdWVzdCh7CgkJCQltZXRob2Q6ICJHRVQiLAoJCQkJdXJsOiAiL3Rlc3QvdXJsIgoJCQl9KTs=</text>
       </register>
-      <register name="9" type="2">
+      <register name="9" type="4">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
