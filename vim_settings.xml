@@ -129,6 +129,11 @@
         <mark key="." line="88" column="7" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/git/.gitignore" timestamp="1559934998354" />
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/spoofHandlerServiceTest.js" timestamp="1560182519994">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ts" timestamp="1559585619516">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -165,11 +170,11 @@
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/assessment/assessment-setup/assessment-setup.directive.scss" timestamp="1557157868888">
         <mark key="[" line="26" column="46" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof-handler/spoof-handler.service.ts" timestamp="1559940055806">
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof-handler/spoof-handler.service.ts" timestamp="1560182515085">
         <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="12" />
-        <mark key="." line="47" column="12" />
-        <mark key="^" line="19" column="41" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="16" />
       </file>
       <file name="$USER_HOME$/development/test-shell/self-react/src/index.tsx" timestamp="1559882472314">
         <mark key="[" line="5" column="53" />
@@ -269,6 +274,7 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/relationshipServiceTest.js" timestamp="1560182481479" />
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/partner-profile.service.ubs.ts" timestamp="1556559681703">
         <mark key="[" line="216" column="37" />
       </file>
@@ -315,13 +321,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getOverrideId</text>
+        <text>_</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
       </register>
       <register name="-" type="4">
-        <text>getOverrideId</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>oh-my</text>
