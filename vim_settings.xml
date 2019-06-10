@@ -15,18 +15,6 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/onboarding/partial-copilot-processor.service.ts" timestamp="1557957375491">
         <mark key="[" line="205" column="131" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/karma.conf.js" timestamp="1559157509388">
-        <mark key="[" line="31" column="65" />
-        <mark key="]" line="31" column="65" />
-        <mark key="." line="31" column="65" />
-        <mark key="^" line="59" column="50" />
-      </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/content-wrapper/content-wrapper.component.ubs.ts" timestamp="1558628487720">
-        <mark key="[" line="61" column="13" />
-        <mark key="]" line="99" column="34" />
-        <mark key="." line="99" column="34" />
-        <mark key="^" line="99" column="34" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/dam/src/app/portfolio/portfolio.component.ts" timestamp="1558640539864">
         <mark key="[" line="107" column="97" />
       </file>
@@ -39,23 +27,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.json" timestamp="1557175636375">
         <mark key="[" line="507" column="5" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/read-only-spoof/post-handlers/onboarding/onboarding-endpoints.data.ts" timestamp="1559764242114">
-        <mark key="[" line="7" column="55" />
-      </file>
       <file name="$USER_HOME$/development/dotfiles/system/.alias.osx" timestamp="1559933959832">
         <mark key="[" line="0" column="34" />
-      </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/routing/routing.service.ubs.ts" timestamp="1558536067080">
-        <mark key="[" line="49" column="72" />
-        <mark key="]" line="55" column="8" />
-        <mark key="." line="55" column="8" />
-        <mark key="^" line="55" column="8" />
-      </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/main.ubs.ts" timestamp="1559851876331">
-        <mark key="[" line="7" column="79" />
-        <mark key="]" line="7" column="79" />
-        <mark key="^" line="7" column="79" />
-        <mark key="." line="7" column="79" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/mam/test/unit/sigfig/cms/sf-translate.directive.test.js" timestamp="1558728067056">
         <mark key="[" line="0" column="0" />
@@ -64,6 +37,9 @@
         <mark key="[" line="3" column="38" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/user/override/override-user.service.ts" timestamp="1560183780235" />
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/model-portfolio/model-portfolios.service.ts" timestamp="1560201622920">
+        <mark key="[" line="29" column="55" />
+      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-daytime-phone-wrapper.component.html" timestamp="1557287111767">
         <mark key="[" line="1" column="88" />
       </file>
@@ -90,12 +66,6 @@
         <mark key="[" line="21" column="141" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/partner-egress/party-paperwork.wire.ts" timestamp="1559940097054" />
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/copilot/pending/pending-copilot-message.directive.override.ts" timestamp="1559336480511">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="2" column="45" />
-        <mark key="^" line="2" column="45" />
-        <mark key="." line="2" column="45" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/partner-communication/partner-communication.service.ts" timestamp="1559833897263" />
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/partners/csb/configs/config_base.js" timestamp="1556643936980">
         <mark key="[" line="2" column="63" />
@@ -116,16 +86,10 @@
       <file name="$USER_HOME$/development/sigfig/ngts/dam/src/app/spoof-user/spoof-user.wire.ubs.ts" timestamp="1558716093814">
         <mark key="[" line="21" column="8" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_74.json" timestamp="1559881745096">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="28" column="37" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-      </file>
-      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/GameComponent.js" timestamp="1560198269369">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="29" />
+      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/GameComponent.js" timestamp="1560204350726">
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="32" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/ubs/services/read-only-spoof/readOnlySpoofInterceptorTest.js" timestamp="1560183984919" />
       <file name="$USER_HOME$/development/test-shell/self-react/src/components/Hello.tsx" timestamp="1559882080581">
@@ -137,12 +101,6 @@
       <file name="filetypes.xml" timestamp="1559939225074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/read-only-spoof/read-only-spoof-interceptor.service.ts" timestamp="1559842292468">
-        <mark key="[" line="83" column="144" />
-        <mark key="]" line="85" column="16" />
-        <mark key="^" line="85" column="16" />
-        <mark key="." line="85" column="16" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/assessment/assessment-shared.html" timestamp="1559849695462">
         <mark key="[" line="157" column="51" />
         <mark key="]" line="163" column="50" />
@@ -153,40 +111,21 @@
         <mark key="[" line="24" column="14" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof/spoof-user.service.ubs.ts" timestamp="1559834620231" />
-      <file name="$USER_HOME$/development/dotfiles/install/CaskFile" timestamp="1559934677764">
-        <mark key="[" line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/jwt/jwtIngestionServiceTest.js" timestamp="1558973222962">
-        <mark key="[" line="54" column="50" />
-        <mark key="]" line="54" column="50" />
-        <mark key="." line="54" column="50" />
-        <mark key="^" line="25" column="29" />
-      </file>
-      <file name="$USER_HOME$/development/dotfiles/system/.zshrc" timestamp="1559938007483">
-        <mark key="'" line="86" column="12" />
-        <mark key="[" line="88" column="7" />
-        <mark key="]" line="88" column="7" />
-        <mark key="." line="88" column="7" />
-      </file>
       <file name="$USER_HOME$/development/dotfiles/git/.gitignore" timestamp="1559934998354" />
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/spoofHandlerServiceTest.js" timestamp="1560193976682">
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/spoofHandlerServiceTest.js" timestamp="1560201394729">
         <mark key="'" line="96" column="61" />
-        <mark key="[" line="8" column="21" />
+        <mark key="[" line="100" column="41" />
+        <mark key="]" line="100" column="41" />
+        <mark key="^" line="98" column="73" />
+        <mark key="." line="100" column="41" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/README.md" timestamp="1559938740978">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/SquareComponent.js" timestamp="1560198065441">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/user/preferences/user-pref.service.ts" timestamp="1558471940439">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="4" />
-        <mark key="." line="101" column="4" />
-        <mark key="^" line="101" column="16" />
+      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/SquareComponent.js" timestamp="1560202712155">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-us-daytime-phone.component.html" timestamp="1557516127194">
         <mark key="[" line="26" column="6" />
@@ -198,12 +137,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_46.json" timestamp="1559334550947">
         <mark key="[" line="59" column="45" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/jwt/jwtServiceTest.js" timestamp="1558992190391">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/recipient-state/recipient-state.service.ts" timestamp="1559751555346">
         <mark key="[" line="78" column="119" />
         <mark key="]" line="78" column="119" />
@@ -212,8 +145,10 @@
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/assessment/assessment-setup/assessment-setup.directive.scss" timestamp="1557157868888">
         <mark key="[" line="26" column="46" />
       </file>
-      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/BoardComponent.js" timestamp="1560198162401">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/BoardComponent.js" timestamp="1560203855865">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof-handler/spoof-handler.service.ts" timestamp="1560194619999">
         <mark key="[" line="21" column="20" />
@@ -221,7 +156,11 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/index.js" timestamp="1560196301035" />
+      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/index.js" timestamp="1560200259044">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/development/test-shell/self-react/src/index.tsx" timestamp="1559882472314">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="53" />
@@ -241,34 +180,16 @@
         <mark key="^" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/recipientStateServiceTest.js" timestamp="1559675530827">
-        <mark key="[" line="38" column="23" />
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="23" />
-        <mark key="^" line="22" column="68" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1556222054579">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/copilot/pending/pending-copilot-progress-bar.directive.ubs.scss" timestamp="1556310625967">
         <mark key="[" line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/jwt/jwt-ingestion.service.ts" timestamp="1558971282236">
-        <mark key="[" line="69" column="39" />
-        <mark key="]" line="59" column="53" />
-        <mark key="^" line="47" column="19" />
-        <mark key="." line="59" column="53" />
-      </file>
       <file name="$USER_HOME$/development/dotfiles/install.sh" timestamp="1559937248177">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/widgets/src/app/investment-accounts/investment-accounts-not-null.directive.html" timestamp="1559341313888">
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="21" column="52" />
-        <mark key="." line="21" column="52" />
-        <mark key="^" line="21" column="52" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-daytime-phone.component.ubs.html" timestamp="1557288496667">
         <mark key="[" line="6" column="29" />
@@ -299,10 +220,11 @@
       <file name="$USER_HOME$/development/test-shell/self-react/src/components/index.tsx" timestamp="1559882351558">
         <mark key="[" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/sf-header/sf-header.component.ts" timestamp="1559881931959">
-        <mark key="[" line="250" column="52" />
-        <mark key="]" line="250" column="52" />
-        <mark key="." line="250" column="52" />
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/sf-header/sf-header.component.ts" timestamp="1560201697585">
+        <mark key="[" line="250" column="61" />
+        <mark key="]" line="250" column="60" />
+        <mark key="." line="250" column="60" />
+        <mark key="^" line="250" column="60" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/account-profile-sanitize.service.ts" timestamp="1557286171492">
         <mark key="[" line="133" column="19" />
@@ -318,14 +240,10 @@
         <mark key="[" line="346" column="23" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/system/.alias.zsh" timestamp="1559938467006" />
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ubs.ts" timestamp="1559595584582">
-        <mark key="[" line="46" column="62" />
-        <mark key="]" line="46" column="62" />
-        <mark key="." line="46" column="62" />
-        <mark key="^" line="47" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1560194791417">
+      <file name="/Dummy.txt" timestamp="1560201718028">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/relationshipServiceTest.js" timestamp="1560182481479" />
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/partner-profile.service.ubs.ts" timestamp="1556559681703">
@@ -375,13 +293,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TODO</text>
+        <text>history.length - 1</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
       </register>
       <register name="-" type="4">
-        <text>TODO</text>
+        <text>history.length - 1</text>
       </register>
       <register name="/" type="4">
         <text>oh-my</text>
@@ -389,32 +307,44 @@
       <register name="0" type="2">
         <text encoding="base64">PGRpdiBuZy1pZj0iZ3VpZGFuY2UucmVhZHkgJiYgIWd1aWRhbmNlLmhhc05vRWxpZ2libGVBY2NvdW50cyAmJiBndWlkYW5jZS5oYXNQZW5kaW5nQ29waWxvdFBvcnRmb2xpb3MgJiYgIWd1aWRhbmNlLmhhc1BlbmRpbmdKb2ludFNpZ25lZSI+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CS8vIEludGVyY2VwdG9yIGZvciBhZGRpbmcgb3ZlcnJpZGRlbiB1c2VyIElEcwoJcHJpdmF0ZSByZXF1ZXN0SGFuZGxlciguLi5hcmdzOiBQYXJhbWV0ZXJzPG5nLklIdHRwSW50ZXJjZXB0b3JbInJlcXVlc3QiXT4pIHsKCQljb25zdCBbY29uZmlnXSA9IGFyZ3M7CgkJY29uc3Qgb3ZlcnJpZGVVc2VyU2VydmljZSA9IHRoaXMuJGluamVjdG9yLmdldDxPdmVycmlkZVVzZXJTZXJ2aWNlPigib3ZlcnJpZGVVc2VyU2VydmljZSIpOwoJCWNvbnN0IHVzZXJTZXJ2aWNlID0gdGhpcy4kaW5qZWN0b3IuZ2V0PFVzZXJTZXJ2aWNlPigidXNlclNlcnZpY2UiKTsKCQljb25zdCBhcHBDb25maWcgPSB0aGlzLiRpbmplY3Rvci5nZXQ8RmFtQ29uZmlnPigiY29uZmlnIik7CgkJY29uc29sZS5sb2coY29uZmlnKTsKCg==</text>
+      <register name="1" type="4">
+        <text>handleClick(i) {
+        const squares = this.state.squares.slice();
+
+        if (calculateWinner(squares) || squares[i]) {
+            return;
+        }
+
+        squares[i] = this.state.xIsNext ?  &quot;X&quot; : &quot;O&quot;;
+        this.setState({
+            squares,
+            xIsNext: !this.state.xIsNext
+        });
+    }</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CQl0aGlzLnRlc3RpbmdDb25maWcgPSB7CgkJCUdFVDogeyBrZXk6ICJwYXJhbXMiIH0sCgkJCVBPU1Q6IHsga2V5OiAiZGF0YSIgfSwKCQl9Ow==</text>
+        <text encoding="base64">ICAgICAgIGNvbnN0IHdpbm5lciA9IGNhbGN1bGF0ZVdpbm5lcih0aGlzLnN0YXRlLnNxdWFyZXMpOwogICAgICAgIGxldCBzdGF0dXM7CiAgICAgICAgd2lubmVyID8gc3RhdHVzID0gYFdpbm5lcjogJHt3aW5uZXJ9YCA6IHN0YXR1cyA9IGBuZXh0IHBsYXllcjogJHt0aGlzLnN0YXRlLnhJc05leHQgPyAiWCIgOiAiTyIgfWA7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CQkJaXQoImRvZXMgbm90IG1vZGlmeSBxdWVyeSBwYXJhbXMgaWYgdGhlcmUgYXJlIG5vbmUiLCBmdW5jdGlvbigpIHsKCQkJCQl0aGlzLnRlc3RQYXJhbXMoIkdFVCIsIHRoaXMudGVzdFF1ZXJ5U3RyaW5ncyk7CgkJCQl9KTs=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGNhbGN1bGF0ZVdpbm5lcihzcXVhcmVzKSB7CiAgICBjb25zdCBsaW5lcyA9IFsKICAgICAgICBbMCwgMSwgMl0sCiAgICAgICAgWzMsIDQsIDVdLAogICAgICAgIFs2LCA3LCA4XSwKICAgICAgICBbMCwgMywgNl0sCiAgICAgICAgWzEsIDQsIDddLAogICAgICAgIFsyLCA1LCA4XSwKICAgICAgICBbMCwgNCwgOF0sCiAgICAgICAgWzIsIDQsIDZdLAogICAgXTsKCiAgICBmb3IgKGxldCBpID0gMDsgaSA8IGxpbmVzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgY29uc3QgW2EsIGIsIGNdID0gbGluZXNbaV07CiAgICAgICAgaWYgKHNxdWFyZXNbYV0gJiYgc3F1YXJlc1thXSA9PT0gc3F1YXJlc1tiXSAmJiBzcXVhcmVzW2FdID09PSBzcXVhcmVzW2NdKSB7CiAgICAgICAgICAgIHJldHVybiBzcXVhcmVzW2FdOwogICAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gbnVsbDsKfQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CQl0aGlzLnRlc3RPdmVycmlkZGVuUGFyYW1zID0gZnVuY3Rpb24obWV0aG9kLCBkYXRhKSB7CgkJCWNvbnN0IHJlc3VsdCA9IHRoaXMudGVzdFBhcmFtcyhtZXRob2QsIGRhdGEpOwoJCQljb25zdCBtZXRob2RLZXkgPSB0aGlzLnRlc3RpbmdDb25maWdbbWV0aG9kXS5rZXk7CgkJCQoJCQlpZiAoKSB7CgkJCQlleHBlY3QocmVzdWx0W21ldGhvZEtleV0pLnRvQ29udGFpbihgJm92ZXJyaWRkZW5TaXRlVG9rZW49JHt0aGlzLm92ZXJyaWRlblNpdGVUb2tlbn0mb3ZlcnJpZGRlblVzZXJJZD0ke3RoaXMub3ZlcnJpZGRlbklkfWApOwoJCQl9IGVsc2UgewoJCQkJZXhwZWN0KHJlc3VsdFttZXRob2RLZXldLikKCQkJfQoJCX0=</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFNxdWFyZSBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJzcXVhcmUiCiAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB0aGlzLnByb3BzLm9uQ2xpY2soKX0+CiAgICAgICAgICAgICAgICB7dGhpcy5wcm9wcy52YWx1ZX0KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgKQogICAgfQp9</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CgkJCQltZXRob2Q6IG1ldGhvZCwKCQkJCXVybDogInRlc3QvZ2V0IiwKCQkJfQ==</text>
+        <text encoding="base64">UmVhY3RET00ucmVuZGVyKAogIDxBcHAgLz4sCiAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKQopOw==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQkJCWJlZm9yZUVhY2goZnVuY3Rpb24oKSB7CgkJCQkJY29uZmlnID0gdGhpcy5zZXJ2aWNlLnJlcXVlc3QoewoJCQkJCQltZXRob2Q6ICJHRVQiLAoJCQkJCQl1cmw6ICIvdGVzdC91cmwiCgkJCQkJfSk7CgkJCQl9KTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CS8vIEludGVyY2VwdG9yIGZvciBhZGRpbmcgb3ZlcnJpZGRlbiB1c2VyIElEcwoJcHJpdmF0ZSByZXF1ZXN0SGFuZGxlciguLi5hcmdzOiBQYXJhbWV0ZXJzPG5nLklIdHRwSW50ZXJjZXB0b3JbInJlcXVlc3QiXT4pIHsKCQljb25zdCBbY29uZmlnXSA9IGFyZ3M7CgkJY29uc3Qgb3ZlcnJpZGVVc2VyU2VydmljZSA9IHRoaXMuJGluamVjdG9yLmdldDxPdmVycmlkZVVzZXJTZXJ2aWNlPigib3ZlcnJpZGVVc2VyU2VydmljZSIpOwoJCWNvbnN0IHVzZXJTZXJ2aWNlID0gdGhpcy4kaW5qZWN0b3IuZ2V0PFVzZXJTZXJ2aWNlPigidXNlclNlcnZpY2UiKTsKCQljb25zdCBhcHBDb25maWcgPSB0aGlzLiRpbmplY3Rvci5nZXQ8RmFtQ29uZmlnPigiY29uZmlnIik7CgkJY29uc29sZS5sb2coY29uZmlnKTsKCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CQkJCWNvbmZpZyA9IHRoaXMuc2VydmljZS5yZXF1ZXN0KHsKCQkJCQltZXRob2Q6ICJHRVQiLAoJCQkJCXVybDogIi90ZXN0L3VybCIKCQkJCX0pOw==</text>
+        <text encoding="base64">CQl0aGlzLnRlc3RpbmdDb25maWcgPSB7CgkJCUdFVDogeyBrZXk6ICJwYXJhbXMiIH0sCgkJCVBPU1Q6IHsga2V5OiAiZGF0YSIgfSwKCQl9Ow==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CQkJCgkJCSBjb25maWcgPSB0aGlzLnNlcnZpY2UucmVxdWVzdCh7CgkJCQltZXRob2Q6ICJHRVQiLAoJCQkJdXJsOiAiL3Rlc3QvdXJsIgoJCQl9KTs=</text>
+        <text encoding="base64">CQkJaXQoImRvZXMgbm90IG1vZGlmeSBxdWVyeSBwYXJhbXMgaWYgdGhlcmUgYXJlIG5vbmUiLCBmdW5jdGlvbigpIHsKCQkJCQl0aGlzLnRlc3RQYXJhbXMoIkdFVCIsIHRoaXMudGVzdFF1ZXJ5U3RyaW5ncyk7CgkJCQl9KTs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0aGlzLnRlc3RPdmVycmlkZGVuUGFyYW1zID0gZnVuY3Rpb24obWV0aG9kLCBkYXRhKSB7CgkJCWNvbnN0IHJlc3VsdCA9IHRoaXMudGVzdFBhcmFtcyhtZXRob2QsIGRhdGEpOwoJCQljb25zdCBtZXRob2RLZXkgPSB0aGlzLnRlc3RpbmdDb25maWdbbWV0aG9kXS5rZXk7CgkJCQoJCQlpZiAoKSB7CgkJCQlleHBlY3QocmVzdWx0W21ldGhvZEtleV0pLnRvQ29udGFpbihgJm92ZXJyaWRkZW5TaXRlVG9rZW49JHt0aGlzLm92ZXJyaWRlblNpdGVUb2tlbn0mb3ZlcnJpZGRlblVzZXJJZD0ke3RoaXMub3ZlcnJpZGRlbklkfWApOwoJCQl9IGVsc2UgewoJCQkJZXhwZWN0KHJlc3VsdFttZXRob2RLZXldLikKCQkJfQoJCX0=</text>
       </register>
     </registers>
     <search>
