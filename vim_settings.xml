@@ -165,7 +165,7 @@
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/assessment/assessment-setup/assessment-setup.directive.scss" timestamp="1557157868888">
         <mark key="[" line="26" column="46" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof-handler/spoof-handler.service.ts" timestamp="1560193807444">
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof-handler/spoof-handler.service.ts" timestamp="1560194619999">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="20" />
         <mark key="." line="21" column="20" />
@@ -264,10 +264,8 @@
         <mark key="[" line="346" column="23" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/system/.alias.zsh" timestamp="1559938467006" />
-      <file name="/Dummy.txt" timestamp="1560193504369">
+      <file name="/Dummy.txt" timestamp="1560194791417">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/relationshipServiceTest.js" timestamp="1560182481479" />
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/partner-profile.service.ubs.ts" timestamp="1556559681703">
@@ -317,13 +315,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>config</text>
+        <text encoding="base64">d3JpdGUg</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text encoding="base64">d3JpdGUg</text>
       </register>
       <register name="/" type="4">
         <text>oh-my</text>
