@@ -24,13 +24,16 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/partners/citizens/configs/config_base.js" timestamp="1556643978143">
         <mark key="[" line="72" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.json" timestamp="1557175636375">
-        <mark key="[" line="507" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.json" timestamp="1560280250154">
+        <mark key="[" line="57" column="38" />
+        <mark key="]" line="57" column="38" />
+        <mark key="." line="57" column="38" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/playback/abstract-copilot-playback.controller.ts" timestamp="1560269066879" />
       <file name="$USER_HOME$/development/dotfiles/system/.alias.osx" timestamp="1559933959832">
         <mark key="[" line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.ts" timestamp="1560280517135" />
       <file name="$USER_HOME$/development/sigfig/ngts/mam/test/unit/sigfig/cms/sf-translate.directive.test.js" timestamp="1558728067056">
         <mark key="[" line="0" column="0" />
       </file>
@@ -181,11 +184,11 @@
       <file name="$USER_HOME$/development/dotfiles/system/BrewFile" timestamp="1559934321039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/whats-happening.md" timestamp="1560270888326">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/whats-happening.md" timestamp="1560281849821">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1556222054579">
         <mark key="[" line="0" column="1" />
@@ -258,8 +261,14 @@
         <mark key="." line="203" column="42" />
         <mark key="^" line="203" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560274448243">
-        <mark key="[" line="0" column="11" />
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ubs.ts" timestamp="1560281344225">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="18" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560281638700">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -312,13 +321,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aGFyZWQgUUE6IEZBIFNwb29maW5nID4gSm9pbnQgQWNjb3VudDogRkEgUGxheWJhY2sgbGV0dGVyIGhhcyBhbiBleHRyYSAiUGVyc29uYWwgSW5mb3IuLi4=</text>
+        <text>true</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aGFyZWQgUUE6IEZBIFNwb29maW5nID4gSm9pbnQgQWNjb3VudDogRkEgUGxheWJhY2sgbGV0dGVyIGhhcyBhbiBleHRyYSAiUGVyc29uYWwgSW5mb3IuLi4=</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>oh-my</text>
@@ -326,10 +335,13 @@
       <register name="0" type="2">
         <text encoding="base64">PGRpdiBuZy1pZj0iZ3VpZGFuY2UucmVhZHkgJiYgIWd1aWRhbmNlLmhhc05vRWxpZ2libGVBY2NvdW50cyAmJiBndWlkYW5jZS5oYXNQZW5kaW5nQ29waWxvdFBvcnRmb2xpb3MgJiYgIWd1aWRhbmNlLmhhc1BlbmRpbmdKb2ludFNpZ25lZSI+Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKHRoaXMuY29uZmlnLlNIT1dfRElTQUJMRURfQ1RBICYmIHRoaXMuJHNjb3BlLnN0YXRlICE9PSBDb3BpbG90U3RhdGVzLkVYUElSRUQpIHsKCQkJaWYgKHRoaXMuJHNjb3BlLnN0YXRlID09PSBDb3BpbG90U3RhdGVzLlNJR05fRE9DU19KT0lOVCAmJiB0aGlzLiRzY29wZS5pc1BlbmRpbmdSZWNpcGllbnRTaWduaW5nKSB7CgkJCQlyZXR1cm4gdHJ1ZTsKCQkJfQoKCQkJaWYgKHRoaXMuJHNjb3BlLnN0YXRlID09PSBDb3BpbG90U3RhdGVzLkJFTE9XX01JTklNVU0gJiYgIXRoaXMuJHNjb3BlLm1pc3NpbmdSaXNrUHJlZmVyZW5jZSkgewoJCQkJcmV0dXJuIHRydWU7CgkJCX0KCgkJCXJldHVybiB0cnVlOwoJCX0=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CQlyZXR1cm4gdGhpcy5wbGFuUmVhZHkgJiYgdGhpcy5hbGxvY2F0aW9uUmVhZHkgJiYgdGhpcy5wcm9maWxlUmVhZHkgJiYgdGhpcy5hZHZpc29yRGV0YWlsc1JlYWR5Owo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>handleClick(i) {
         const squares = this.state.squares.slice();
 
@@ -344,26 +356,23 @@
         });
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgIGNvbnN0IHdpbm5lciA9IGNhbGN1bGF0ZVdpbm5lcih0aGlzLnN0YXRlLnNxdWFyZXMpOwogICAgICAgIGxldCBzdGF0dXM7CiAgICAgICAgd2lubmVyID8gc3RhdHVzID0gYFdpbm5lcjogJHt3aW5uZXJ9YCA6IHN0YXR1cyA9IGBuZXh0IHBsYXllcjogJHt0aGlzLnN0YXRlLnhJc05leHQgPyAiWCIgOiAiTyIgfWA7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmZ1bmN0aW9uIGNhbGN1bGF0ZVdpbm5lcihzcXVhcmVzKSB7CiAgICBjb25zdCBsaW5lcyA9IFsKICAgICAgICBbMCwgMSwgMl0sCiAgICAgICAgWzMsIDQsIDVdLAogICAgICAgIFs2LCA3LCA4XSwKICAgICAgICBbMCwgMywgNl0sCiAgICAgICAgWzEsIDQsIDddLAogICAgICAgIFsyLCA1LCA4XSwKICAgICAgICBbMCwgNCwgOF0sCiAgICAgICAgWzIsIDQsIDZdLAogICAgXTsKCiAgICBmb3IgKGxldCBpID0gMDsgaSA8IGxpbmVzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgY29uc3QgW2EsIGIsIGNdID0gbGluZXNbaV07CiAgICAgICAgaWYgKHNxdWFyZXNbYV0gJiYgc3F1YXJlc1thXSA9PT0gc3F1YXJlc1tiXSAmJiBzcXVhcmVzW2FdID09PSBzcXVhcmVzW2NdKSB7CiAgICAgICAgICAgIHJldHVybiBzcXVhcmVzW2FdOwogICAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gbnVsbDsKfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZXhwb3J0IGNsYXNzIFNxdWFyZSBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJzcXVhcmUiCiAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB0aGlzLnByb3BzLm9uQ2xpY2soKX0+CiAgICAgICAgICAgICAgICB7dGhpcy5wcm9wcy52YWx1ZX0KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgKQogICAgfQp9</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">UmVhY3RET00ucmVuZGVyKAogIDxBcHAgLz4sCiAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKQopOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CS8vIEludGVyY2VwdG9yIGZvciBhZGRpbmcgb3ZlcnJpZGRlbiB1c2VyIElEcwoJcHJpdmF0ZSByZXF1ZXN0SGFuZGxlciguLi5hcmdzOiBQYXJhbWV0ZXJzPG5nLklIdHRwSW50ZXJjZXB0b3JbInJlcXVlc3QiXT4pIHsKCQljb25zdCBbY29uZmlnXSA9IGFyZ3M7CgkJY29uc3Qgb3ZlcnJpZGVVc2VyU2VydmljZSA9IHRoaXMuJGluamVjdG9yLmdldDxPdmVycmlkZVVzZXJTZXJ2aWNlPigib3ZlcnJpZGVVc2VyU2VydmljZSIpOwoJCWNvbnN0IHVzZXJTZXJ2aWNlID0gdGhpcy4kaW5qZWN0b3IuZ2V0PFVzZXJTZXJ2aWNlPigidXNlclNlcnZpY2UiKTsKCQljb25zdCBhcHBDb25maWcgPSB0aGlzLiRpbmplY3Rvci5nZXQ8RmFtQ29uZmlnPigiY29uZmlnIik7CgkJY29uc29sZS5sb2coY29uZmlnKTsKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQl0aGlzLnRlc3RpbmdDb25maWcgPSB7CgkJCUdFVDogeyBrZXk6ICJwYXJhbXMiIH0sCgkJCVBPU1Q6IHsga2V5OiAiZGF0YSIgfSwKCQl9Ow==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CQkJaXQoImRvZXMgbm90IG1vZGlmeSBxdWVyeSBwYXJhbXMgaWYgdGhlcmUgYXJlIG5vbmUiLCBmdW5jdGlvbigpIHsKCQkJCQl0aGlzLnRlc3RQYXJhbXMoIkdFVCIsIHRoaXMudGVzdFF1ZXJ5U3RyaW5ncyk7CgkJCQl9KTs=</text>
+        <text encoding="base64">CQl0aGlzLnRlc3RpbmdDb25maWcgPSB7CgkJCUdFVDogeyBrZXk6ICJwYXJhbXMiIH0sCgkJCVBPU1Q6IHsga2V5OiAiZGF0YSIgfSwKCQl9Ow==</text>
       </register>
     </registers>
     <search>
