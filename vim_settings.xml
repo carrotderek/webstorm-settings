@@ -120,10 +120,10 @@
         <mark key="^" line="98" column="73" />
         <mark key="." line="100" column="41" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/playback/copilot-portfolio-playback.component.html" timestamp="1560264114168">
-        <mark key="[" line="210" column="39" />
-        <mark key="]" line="210" column="39" />
-        <mark key="." line="210" column="39" />
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/playback/copilot-portfolio-playback.component.html" timestamp="1560272725576">
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="17" column="54" />
+        <mark key="." line="17" column="54" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/README.md" timestamp="1559938740978">
         <mark key="[" line="0" column="0" />
@@ -136,6 +136,7 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-us-daytime-phone.component.html" timestamp="1557516127194">
         <mark key="[" line="26" column="6" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/routing/register-partner-specific-routes.fn.ubs.ts" timestamp="1560271430808" />
       <file name="$USER_HOME$/development/sigfig/ngts/webpack/common.config.ts" timestamp="1557422323222">
         <mark key="[" line="61" column="19" />
       </file>
@@ -180,11 +181,11 @@
       <file name="$USER_HOME$/development/dotfiles/system/BrewFile" timestamp="1559934321039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/whats-happening.md" timestamp="1559838653753">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/whats-happening.md" timestamp="1560270888326">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1556222054579">
         <mark key="[" line="0" column="1" />
@@ -202,6 +203,11 @@
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_core/src/app/translations/en/ubs/assessment-overrides.ts" timestamp="1557243836773">
         <mark key="[" line="28" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_77.json" timestamp="1560273918138">
+        <mark key="[" line="85" column="37" />
+        <mark key="]" line="85" column="37" />
+        <mark key="." line="85" column="37" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/git/.gitconfig" timestamp="1559934900477">
         <mark key="[" line="0" column="0" />
@@ -246,10 +252,16 @@
         <mark key="[" line="346" column="23" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/system/.alias.zsh" timestamp="1559938467006" />
-      <file name="/Dummy.txt" timestamp="1560201718028">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/playback/copilot-portfolio-playback.component.ts" timestamp="1560274395075">
+        <mark key="[" line="201" column="31" />
+        <mark key="]" line="203" column="42" />
+        <mark key="." line="203" column="42" />
+        <mark key="^" line="203" column="42" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560274448243">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/relationshipServiceTest.js" timestamp="1560182481479" />
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/partner-profile.service.ubs.ts" timestamp="1556559681703">
@@ -300,13 +312,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>readOnlySpoofSession</text>
+        <text encoding="base64">aGFyZWQgUUE6IEZBIFNwb29maW5nID4gSm9pbnQgQWNjb3VudDogRkEgUGxheWJhY2sgbGV0dGVyIGhhcyBhbiBleHRyYSAiUGVyc29uYWwgSW5mb3IuLi4=</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
       </register>
       <register name="-" type="4">
-        <text>readOnlySpoofSession</text>
+        <text encoding="base64">aGFyZWQgUUE6IEZBIFNwb29maW5nID4gSm9pbnQgQWNjb3VudDogRkEgUGxheWJhY2sgbGV0dGVyIGhhcyBhbiBleHRyYSAiUGVyc29uYWwgSW5mb3IuLi4=</text>
       </register>
       <register name="/" type="4">
         <text>oh-my</text>
@@ -314,7 +326,10 @@
       <register name="0" type="2">
         <text encoding="base64">PGRpdiBuZy1pZj0iZ3VpZGFuY2UucmVhZHkgJiYgIWd1aWRhbmNlLmhhc05vRWxpZ2libGVBY2NvdW50cyAmJiBndWlkYW5jZS5oYXNQZW5kaW5nQ29waWxvdFBvcnRmb2xpb3MgJiYgIWd1aWRhbmNlLmhhc1BlbmRpbmdKb2ludFNpZ25lZSI+Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQlyZXR1cm4gdGhpcy5wbGFuUmVhZHkgJiYgdGhpcy5hbGxvY2F0aW9uUmVhZHkgJiYgdGhpcy5wcm9maWxlUmVhZHkgJiYgdGhpcy5hZHZpc29yRGV0YWlsc1JlYWR5Owo=</text>
+      </register>
+      <register name="2" type="4">
         <text>handleClick(i) {
         const squares = this.state.squares.slice();
 
@@ -329,29 +344,26 @@
         });
     }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgIGNvbnN0IHdpbm5lciA9IGNhbGN1bGF0ZVdpbm5lcih0aGlzLnN0YXRlLnNxdWFyZXMpOwogICAgICAgIGxldCBzdGF0dXM7CiAgICAgICAgd2lubmVyID8gc3RhdHVzID0gYFdpbm5lcjogJHt3aW5uZXJ9YCA6IHN0YXR1cyA9IGBuZXh0IHBsYXllcjogJHt0aGlzLnN0YXRlLnhJc05leHQgPyAiWCIgOiAiTyIgfWA7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CmZ1bmN0aW9uIGNhbGN1bGF0ZVdpbm5lcihzcXVhcmVzKSB7CiAgICBjb25zdCBsaW5lcyA9IFsKICAgICAgICBbMCwgMSwgMl0sCiAgICAgICAgWzMsIDQsIDVdLAogICAgICAgIFs2LCA3LCA4XSwKICAgICAgICBbMCwgMywgNl0sCiAgICAgICAgWzEsIDQsIDddLAogICAgICAgIFsyLCA1LCA4XSwKICAgICAgICBbMCwgNCwgOF0sCiAgICAgICAgWzIsIDQsIDZdLAogICAgXTsKCiAgICBmb3IgKGxldCBpID0gMDsgaSA8IGxpbmVzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgY29uc3QgW2EsIGIsIGNdID0gbGluZXNbaV07CiAgICAgICAgaWYgKHNxdWFyZXNbYV0gJiYgc3F1YXJlc1thXSA9PT0gc3F1YXJlc1tiXSAmJiBzcXVhcmVzW2FdID09PSBzcXVhcmVzW2NdKSB7CiAgICAgICAgICAgIHJldHVybiBzcXVhcmVzW2FdOwogICAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gbnVsbDsKfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZXhwb3J0IGNsYXNzIFNxdWFyZSBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJzcXVhcmUiCiAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB0aGlzLnByb3BzLm9uQ2xpY2soKX0+CiAgICAgICAgICAgICAgICB7dGhpcy5wcm9wcy52YWx1ZX0KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgKQogICAgfQp9</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">UmVhY3RET00ucmVuZGVyKAogIDxBcHAgLz4sCiAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKQopOw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CS8vIEludGVyY2VwdG9yIGZvciBhZGRpbmcgb3ZlcnJpZGRlbiB1c2VyIElEcwoJcHJpdmF0ZSByZXF1ZXN0SGFuZGxlciguLi5hcmdzOiBQYXJhbWV0ZXJzPG5nLklIdHRwSW50ZXJjZXB0b3JbInJlcXVlc3QiXT4pIHsKCQljb25zdCBbY29uZmlnXSA9IGFyZ3M7CgkJY29uc3Qgb3ZlcnJpZGVVc2VyU2VydmljZSA9IHRoaXMuJGluamVjdG9yLmdldDxPdmVycmlkZVVzZXJTZXJ2aWNlPigib3ZlcnJpZGVVc2VyU2VydmljZSIpOwoJCWNvbnN0IHVzZXJTZXJ2aWNlID0gdGhpcy4kaW5qZWN0b3IuZ2V0PFVzZXJTZXJ2aWNlPigidXNlclNlcnZpY2UiKTsKCQljb25zdCBhcHBDb25maWcgPSB0aGlzLiRpbmplY3Rvci5nZXQ8RmFtQ29uZmlnPigiY29uZmlnIik7CgkJY29uc29sZS5sb2coY29uZmlnKTsKCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CQl0aGlzLnRlc3RpbmdDb25maWcgPSB7CgkJCUdFVDogeyBrZXk6ICJwYXJhbXMiIH0sCgkJCVBPU1Q6IHsga2V5OiAiZGF0YSIgfSwKCQl9Ow==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQkJaXQoImRvZXMgbm90IG1vZGlmeSBxdWVyeSBwYXJhbXMgaWYgdGhlcmUgYXJlIG5vbmUiLCBmdW5jdGlvbigpIHsKCQkJCQl0aGlzLnRlc3RQYXJhbXMoIkdFVCIsIHRoaXMudGVzdFF1ZXJ5U3RyaW5ncyk7CgkJCQl9KTs=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CQl0aGlzLnRlc3RPdmVycmlkZGVuUGFyYW1zID0gZnVuY3Rpb24obWV0aG9kLCBkYXRhKSB7CgkJCWNvbnN0IHJlc3VsdCA9IHRoaXMudGVzdFBhcmFtcyhtZXRob2QsIGRhdGEpOwoJCQljb25zdCBtZXRob2RLZXkgPSB0aGlzLnRlc3RpbmdDb25maWdbbWV0aG9kXS5rZXk7CgkJCQoJCQlpZiAoKSB7CgkJCQlleHBlY3QocmVzdWx0W21ldGhvZEtleV0pLnRvQ29udGFpbihgJm92ZXJyaWRkZW5TaXRlVG9rZW49JHt0aGlzLm92ZXJyaWRlblNpdGVUb2tlbn0mb3ZlcnJpZGRlblVzZXJJZD0ke3RoaXMub3ZlcnJpZGRlbklkfWApOwoJCQl9IGVsc2UgewoJCQkJZXhwZWN0KHJlc3VsdFttZXRob2RLZXldLikKCQkJfQoJCX0=</text>
+        <text encoding="base64">CQkJaXQoImRvZXMgbm90IG1vZGlmeSBxdWVyeSBwYXJhbXMgaWYgdGhlcmUgYXJlIG5vbmUiLCBmdW5jdGlvbigpIHsKCQkJCQl0aGlzLnRlc3RQYXJhbXMoIkdFVCIsIHRoaXMudGVzdFF1ZXJ5U3RyaW5ncyk7CgkJCQl9KTs=</text>
       </register>
     </registers>
     <search>
