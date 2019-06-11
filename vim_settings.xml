@@ -30,6 +30,7 @@
         <mark key="." line="57" column="38" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/playback/abstract-copilot-playback.controller.ts" timestamp="1560269066879" />
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_core/src/app/translations/en/ubs/common/disclosures-overrides.ts" timestamp="1560282702033" />
       <file name="$USER_HOME$/development/dotfiles/system/.alias.osx" timestamp="1559933959832">
         <mark key="[" line="0" column="34" />
       </file>
@@ -116,13 +117,6 @@
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof/spoof-user.service.ubs.ts" timestamp="1559834620231" />
       <file name="$USER_HOME$/development/dotfiles/git/.gitignore" timestamp="1559934998354" />
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/test/unit/sigfig/services/spoofHandlerServiceTest.js" timestamp="1560201394729">
-        <mark key="'" line="96" column="61" />
-        <mark key="[" line="100" column="41" />
-        <mark key="]" line="100" column="41" />
-        <mark key="^" line="98" column="73" />
-        <mark key="." line="100" column="41" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/playback/copilot-portfolio-playback.component.html" timestamp="1560272725576">
         <mark key="[" line="17" column="54" />
         <mark key="]" line="17" column="54" />
