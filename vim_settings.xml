@@ -119,6 +119,11 @@
         <mark key="^" line="98" column="73" />
         <mark key="." line="100" column="41" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/playback/copilot-portfolio-playback.component.html" timestamp="1560263243258">
+        <mark key="[" line="210" column="39" />
+        <mark key="]" line="210" column="39" />
+        <mark key="." line="210" column="39" />
+      </file>
       <file name="$USER_HOME$/development/dotfiles/README.md" timestamp="1559938740978">
         <mark key="[" line="0" column="0" />
       </file>
@@ -249,6 +254,7 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/partner-profile.service.ubs.ts" timestamp="1556559681703">
         <mark key="[" line="216" column="37" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof/set-spoof-session-button-access.directive.ts" timestamp="1560263241623" />
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.directive.ts" timestamp="1558456404659">
         <mark key="[" line="38" column="30" />
       </file>
@@ -293,13 +299,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>history.length - 1</text>
+        <text>readOnlySpoofSession</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
       </register>
       <register name="-" type="4">
-        <text>history.length - 1</text>
+        <text>readOnlySpoofSession</text>
       </register>
       <register name="/" type="4">
         <text>oh-my</text>
