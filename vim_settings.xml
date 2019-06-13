@@ -88,7 +88,7 @@
       <file name="$USER_HOME$/development/sigfig/ngts/fam/test/test-config.js" timestamp="1558992374646">
         <mark key="[" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/keep-alive/keep-alive.service.ts" timestamp="1560288592163" />
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/keep-alive/keep-alive.service.ts" timestamp="1560455226436" />
       <file name="$USER_HOME$/development/sigfig/ngts/dam/src/app/spoof-user/spoof-user.wire.ubs.ts" timestamp="1558716093814">
         <mark key="[" line="21" column="8" />
       </file>
@@ -170,6 +170,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/dialogs/dialogs.directive.html" timestamp="1560455118302" />
       <file name="$USER_HOME$/development/test-shell/self-react/src/index.tsx" timestamp="1559882472314">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="53" />
@@ -260,11 +261,11 @@
         <mark key="." line="203" column="42" />
         <mark key="^" line="203" column="42" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ubs.ts" timestamp="1560452840720">
+      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ubs.ts" timestamp="1560454817681">
         <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="41" />
-        <mark key="^" line="23" column="41" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1560283633236">
         <mark key="[" line="0" column="0" />
