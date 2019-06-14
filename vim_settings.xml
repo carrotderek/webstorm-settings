@@ -23,9 +23,11 @@
         <mark key="]" line="57" column="38" />
         <mark key="." line="57" column="38" />
       </file>
+      <file name="$USER_HOME$/development/hackernews-node/resolvers/Mutation.js" timestamp="1560538925612" />
       <file name="$USER_HOME$/development/hackernews-node/prisma/prisma.yml" timestamp="1560488822649">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/blacklist.service.ts" timestamp="1560538292151" />
       <file name="$USER_HOME$/development/dotfiles/system/.alias.osx" timestamp="1559933959832">
         <mark key="[" line="0" column="34" />
       </file>
@@ -65,6 +67,9 @@
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/package.json" timestamp="1559231117847">
         <mark key="[" line="21" column="141" />
+      </file>
+      <file name="$USER_HOME$/development/hackernews-node/resolvers/Query.js" timestamp="1560538720429">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1560459124838">
         <mark key="[" line="0" column="0" />
@@ -172,6 +177,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1556222054579">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/analytics.module.ts" timestamp="1560537895398" />
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/copilot/pending/pending-copilot-progress-bar.directive.ubs.scss" timestamp="1556310625967">
         <mark key="[" line="6" column="55" />
       </file>
@@ -231,11 +237,8 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_core/src/app/translations/en/default/onboarding/paperwork.ts" timestamp="1559752503966">
         <mark key="[" line="346" column="23" />
       </file>
-      <file name="$USER_HOME$/development/hackernews-node/src/index.js" timestamp="1560489526844">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="38" />
-        <mark key="^" line="60" column="17" />
-        <mark key="." line="11" column="38" />
+      <file name="$USER_HOME$/development/hackernews-node/src/index.js" timestamp="1560538757853">
+        <mark key="^" line="57" column="17" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ubs.ts" timestamp="1560459100863">
         <mark key="[" line="23" column="41" />
@@ -247,11 +250,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/widgets/src/app/guidance/guidance.directive.ubs.html" timestamp="1560283635250">
-        <mark key="]" line="58" column="20" />
-        <mark key="." line="58" column="20" />
-        <mark key="^" line="58" column="20" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/partner-profile.service.ubs.ts" timestamp="1556559681703">
         <mark key="[" line="216" column="37" />
@@ -299,7 +297,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pasasword</text>
+        <text encoding="base64">ICAgICAgICBmZWVkOiAocm9vdCwgYXJncywgY29udGV4dCwgaW5mbykgPT4gewogICAgICAgICAgICByZXR1cm4gY29udGV4dC5wcmlzbWEubGlua3MoKQogICAgICAgIH0=</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
@@ -314,31 +312,31 @@
         <text encoding="base64">PGRpdiBuZy1pZj0iZ3VpZGFuY2UucmVhZHkgJiYgIWd1aWRhbmNlLmhhc05vRWxpZ2libGVBY2NvdW50cyAmJiBndWlkYW5jZS5oYXNQZW5kaW5nQ29waWxvdFBvcnRmb2xpb3MgJiYgIWd1aWRhbmNlLmhhc1BlbmRpbmdKb2ludFNpZ25lZSI+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">TXV0YXRpb246IHsKICAgICAgICBwb3N0OiAocGFyZW50LCBhcmdzKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGxpbmsgPSB7CiAgICAgICAgICAgICAgICBpZDogYGxpbmstJHtpZENvdW50Kyt9YCwKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBhcmdzLmRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgdXJsOiBhcmdzLnVybAogICAgICAgICAgICB9OwogICAgICAgICAgICBsaW5rcy5wdXNoKGxpbmspOwogICAgICAgICAgICByZXR1cm4gbGluazsKICAgICAgICB9LA==</text>
+        <text encoding="base64">ICAgICAgICBmZWVkOiAocm9vdCwgYXJncywgY29udGV4dCwgaW5mbykgPT4gewogICAgICAgICAgICByZXR1cm4gY29udGV4dC5wcmlzbWEubGlua3MoKQogICAgICAgIH0=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">TXV0YXRpb246IHsKICAgICAgICBwb3N0OiAocGFyZW50LCBhcmdzKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGxpbmsgPSB7CiAgICAgICAgICAgICAgICBpZDogYGxpbmstJHtpZENvdW50Kyt9YCwKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBhcmdzLmRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgdXJsOiBhcmdzLnVybAogICAgICAgICAgICB9OwogICAgICAgICAgICBsaW5rcy5wdXNoKGxpbmspOwogICAgICAgICAgICByZXR1cm4gbGluazsKICAgICAgICB9LA==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">dXBkYXRlTGluazogKHBhcmVudCwgYXJncykgPT4gewogICAgICAgICAgICBjb25zdCBpbmRleCA9IGxpbmtzLmZpbmRJbmRleChvYmogPT4gb2JqLmlkID09PSBhcmdzLmlkKTsKICAgICAgICAgICAgbGlua3NbaW5kZXhdLmRlc2NyaXB0aW9uID0gYXJncy5kZXNjcmlwdGlvbiB8fCBsaW5rc1tpbmRleF0uZGVzY3JpcHRpb247CiAgICAgICAgICAgIGxpbmtzW2luZGV4XS51cmwgPSBhcmdzLnVybCB8fCBsaW5rc1tpbmRleF0udXJsOwoKICAgICAgICAgICAgcmV0dXJuIGxpbmtzW2luZGV4XTsKICAgICAgICB9LAogICAgICAgIGRlbGV0ZUxpbms6IChwYXJlbnQsIGFyZ3MpID0+IHsKICAgICAgICAgICAgY29uc3QgaW5kZXggPSBsaW5rcy5maW5kSW5kZXgob2JqID0+IG9iai5pZCA9PT0gYXJncy5pZCk7CiAgICAgICAgICAgIGNvbnN0IGxpbmsgPSBsaW5rc1tpbmRleF07CgogICAgICAgICAgICBkZWxldGUgbGlua3NbaW5kZXhdOwogICAgICAgICAgICByZXR1cm4gbGluazsKICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsaW5rc1tpbmRleF07Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGluZGV4ID0gbGlua3MuZmluZEluZGV4KG9iaiA9PiBvYmouaWQgPT09IGlkKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBsaW5rc1tpbmRleF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0TGluayhpZCkgewo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGluZGV4ID0gbGlua3MuZmluZEluZGV4KG9iaiA9PiBvYmouaWQgPT09IGlkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0TGluayhpZCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IGlkQ291bnQgPSBsaW5rcy5sZW5ndGg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
