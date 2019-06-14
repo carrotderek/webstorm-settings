@@ -6,12 +6,6 @@
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/paperwork/paperwork.directive.ts" timestamp="1557247550076">
         <mark key="[" line="489" column="67" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/user/user.service.ts" timestamp="1559852092127">
-        <mark key="[" line="94" column="5" />
-        <mark key="]" line="464" column="24" />
-        <mark key="^" line="464" column="24" />
-        <mark key="." line="464" column="24" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/onboarding/partial-copilot-processor.service.ts" timestamp="1557957375491">
         <mark key="[" line="205" column="131" />
       </file>
@@ -107,12 +101,6 @@
       <file name="filetypes.xml" timestamp="1559939225074">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/assessment/assessment-shared.html" timestamp="1559849695462">
-        <mark key="[" line="157" column="51" />
-        <mark key="]" line="163" column="50" />
-        <mark key="." line="163" column="50" />
-        <mark key="^" line="163" column="50" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/partners/sigfig/configs/config_base.js" timestamp="1557506727453">
         <mark key="[" line="24" column="14" />
       </file>
@@ -121,7 +109,7 @@
         <mark key="]" line="17" column="54" />
         <mark key="." line="17" column="54" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1560458304363">
+      <file name="/GraphQL.result.json" timestamp="1560529028438">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/README.md" timestamp="1559938740978">
@@ -157,12 +145,6 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/spoof-handler/spoof-handler.service.ts" timestamp="1560194619999">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="24" column="16" />
-      </file>
       <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/index.js" timestamp="1560200259044">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -181,11 +163,11 @@
       <file name="$USER_HOME$/development/dotfiles/system/BrewFile" timestamp="1559934321039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/whats-happening.md" timestamp="1560452634705">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/whats-happening.md" timestamp="1560529070211">
         <mark key="[" line="0" column="8" />
-        <mark key="]" line="21" column="36" />
-        <mark key="^" line="21" column="36" />
-        <mark key="." line="21" column="36" />
+        <mark key="]" line="24" column="36" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="24" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1556222054579">
         <mark key="[" line="0" column="1" />
@@ -232,12 +214,6 @@
       <file name="$USER_HOME$/development/test-shell/self-react/src/components/index.tsx" timestamp="1559882351558">
         <mark key="[" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/sf-header/sf-header.component.ts" timestamp="1560201697585">
-        <mark key="[" line="250" column="61" />
-        <mark key="]" line="250" column="60" />
-        <mark key="." line="250" column="60" />
-        <mark key="^" line="250" column="60" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/account-profile-sanitize.service.ts" timestamp="1557286171492">
         <mark key="[" line="133" column="19" />
       </file>
@@ -260,12 +236,6 @@
         <mark key="]" line="11" column="38" />
         <mark key="^" line="60" column="17" />
         <mark key="." line="11" column="38" />
-      </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/playback/copilot-portfolio-playback.component.ts" timestamp="1560274395075">
-        <mark key="[" line="201" column="31" />
-        <mark key="]" line="203" column="42" />
-        <mark key="." line="203" column="42" />
-        <mark key="^" line="203" column="42" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ubs.ts" timestamp="1560459100863">
         <mark key="[" line="23" column="41" />
