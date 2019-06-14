@@ -241,10 +241,10 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/account-profile-sanitize.service.ts" timestamp="1557286171492">
         <mark key="[" line="133" column="19" />
       </file>
-      <file name="$USER_HOME$/development/hackernews-node/src/schema.graphql" timestamp="1560459131831">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/development/hackernews-node/src/schema.graphql" timestamp="1560491937757">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/routing/abstract-routing.service.ts" timestamp="1557421779255">
         <mark key="[" line="212" column="62" />
@@ -329,13 +329,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>pasasword</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>pasasword</text>
       </register>
       <register name="/" type="4">
         <text>oh-my</text>
