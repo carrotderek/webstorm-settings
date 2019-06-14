@@ -18,12 +18,6 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/partners/citizens/configs/config_base.js" timestamp="1556643978143">
         <mark key="[" line="72" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_68.json" timestamp="1560280250154">
-        <mark key="[" line="57" column="38" />
-        <mark key="]" line="57" column="38" />
-        <mark key="." line="57" column="38" />
-      </file>
-      <file name="$USER_HOME$/development/hackernews-node/resolvers/Mutation.js" timestamp="1560538925612" />
       <file name="$USER_HOME$/development/hackernews-node/prisma/prisma.yml" timestamp="1560488822649">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,11 +40,6 @@
       <file name="$USER_HOME$/development/hackernews-node/prisma/datamodel.prisma" timestamp="1560490054364">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/app.module.ts" timestamp="1560285219970">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/common.bundle.ts" timestamp="1558763476763">
         <mark key="[" line="154" column="26" />
       </file>
@@ -60,16 +49,11 @@
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio-compact.directive.ts" timestamp="1559248570958">
         <mark key="[" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/development/dotfiles/setup.sh" timestamp="1559937580318">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/package.json" timestamp="1559231117847">
         <mark key="[" line="21" column="141" />
       </file>
-      <file name="$USER_HOME$/development/hackernews-node/resolvers/Query.js" timestamp="1560538720429">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/development/hackernews-node/resolvers/Query.js" timestamp="1560555078355">
+        <mark key="[" line="4" column="13" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1560459124838">
         <mark key="[" line="0" column="0" />
@@ -92,11 +76,6 @@
       <file name="$USER_HOME$/development/sigfig/ngts/dam/src/app/spoof-user/spoof-user.wire.ubs.ts" timestamp="1558716093814">
         <mark key="[" line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/GameComponent.js" timestamp="1560204350726">
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="42" column="32" />
-        <mark key="." line="42" column="32" />
-      </file>
       <file name="$USER_HOME$/development/test-shell/self-react/src/components/Hello.tsx" timestamp="1559882080581">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,21 +88,11 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/partners/sigfig/configs/config_base.js" timestamp="1557506727453">
         <mark key="[" line="24" column="14" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/playback/copilot-portfolio-playback.component.html" timestamp="1560272725576">
-        <mark key="[" line="17" column="54" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="17" column="54" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1560529028438">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/README.md" timestamp="1559938740978">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/SquareComponent.js" timestamp="1560202712155">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-us-daytime-phone.component.html" timestamp="1557516127194">
         <mark key="[" line="26" column="6" />
@@ -134,36 +103,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_46.json" timestamp="1559334550947">
         <mark key="[" line="59" column="45" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/recipient-state/recipient-state.service.ts" timestamp="1559751555346">
-        <mark key="[" line="78" column="119" />
-        <mark key="]" line="78" column="119" />
-        <mark key="." line="78" column="119" />
-      </file>
       <file name="$USER_HOME$/development/carrotderek/gatsby-config.js" timestamp="1560287487109">
         <mark key="[" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/assessment/assessment-setup/assessment-setup.directive.scss" timestamp="1557157868888">
         <mark key="[" line="26" column="46" />
-      </file>
-      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/BoardComponent.js" timestamp="1560203855865">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/development/test-shell/tic-tac-toe/src/index.js" timestamp="1560200259044">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/test-shell/self-react/src/index.tsx" timestamp="1559882472314">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="5" column="53" />
-        <mark key="." line="5" column="53" />
-      </file>
-      <file name="$USER_HOME$/development/dotfiles/install/BrewFile" timestamp="1559934654249">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/system/BrewFile" timestamp="1559934321039">
         <mark key="[" line="0" column="0" />
@@ -181,21 +125,14 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/copilot/pending/pending-copilot-progress-bar.directive.ubs.scss" timestamp="1556310625967">
         <mark key="[" line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/development/dotfiles/install.sh" timestamp="1559937248177">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-daytime-phone.component.ubs.html" timestamp="1557288496667">
         <mark key="[" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_core/src/app/translations/en/ubs/assessment-overrides.ts" timestamp="1557243836773">
         <mark key="[" line="28" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_77.json" timestamp="1560273918138">
-        <mark key="[" line="85" column="37" />
-        <mark key="]" line="85" column="37" />
-        <mark key="." line="85" column="37" />
+      <file name="$USER_HOME$/development/hackernews-node/src/utils.js" timestamp="1560554606515">
+        <mark key="[" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/development/dotfiles/git/.gitconfig" timestamp="1559934900477">
         <mark key="[" line="0" column="0" />
@@ -211,11 +148,6 @@
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/plan/plan-authenticated.service.ts" timestamp="1557777857831">
         <mark key="[" line="202" column="83" />
-      </file>
-      <file name="$USER_HOME$/development/dotfiles/MakeFile" timestamp="1559936781077">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="48" />
-        <mark key="." line="20" column="48" />
       </file>
       <file name="$USER_HOME$/development/test-shell/self-react/src/components/index.tsx" timestamp="1559882351558">
         <mark key="[" line="0" column="31" />
@@ -237,8 +169,11 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_core/src/app/translations/en/default/onboarding/paperwork.ts" timestamp="1559752503966">
         <mark key="[" line="346" column="23" />
       </file>
-      <file name="$USER_HOME$/development/hackernews-node/src/index.js" timestamp="1560538757853">
-        <mark key="^" line="57" column="17" />
+      <file name="$USER_HOME$/development/hackernews-node/src/index.js" timestamp="1560555019568">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="59" column="17" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/managed/portfolio/managed-portfolio.controller.override.ubs.ts" timestamp="1560459100863">
         <mark key="[" line="23" column="41" />
@@ -297,7 +232,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBmZWVkOiAocm9vdCwgYXJncywgY29udGV4dCwgaW5mbykgPT4gewogICAgICAgICAgICByZXR1cm4gY29udGV4dC5wcmlzbWEubGlua3MoKQogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgIFF1ZXJ5OiB7CiAgICAgICAgaW5mbzogKCkgPT4gJ1RoaXMgaXMgdGhlIEFQSSBvZiBoYWNrZXJuZXdzIGNsb25lJywKICAgIH0sCiAgICBNdXRhdGlvbjogewogICAgICAgIHBvc3Q6IChwYXJlbnQsIGFyZ3MsIGNvbnRleHQpID0+IHsKICAgICAgICAgICAgcmV0dXJuIGNvbnRleHQucHJpc21hLmNyZWF0ZUxpbmsoewogICAgICAgICAgICAgICAgZGVzY3JpcHRpb246IGFyZ3MuZGVzY3JpcHRpb24sCiAgICAgICAgICAgICAgICB1cmw6IGFyZ3MudXJsLAogICAgICAgICAgICB9KQogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="d" type="4">
         <text>readOnlySpoofInterceptorService</text>
@@ -312,31 +247,31 @@
         <text encoding="base64">PGRpdiBuZy1pZj0iZ3VpZGFuY2UucmVhZHkgJiYgIWd1aWRhbmNlLmhhc05vRWxpZ2libGVBY2NvdW50cyAmJiBndWlkYW5jZS5oYXNQZW5kaW5nQ29waWxvdFBvcnRmb2xpb3MgJiYgIWd1aWRhbmNlLmhhc1BlbmRpbmdKb2ludFNpZ25lZSI+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBmZWVkOiAocm9vdCwgYXJncywgY29udGV4dCwgaW5mbykgPT4gewogICAgICAgICAgICByZXR1cm4gY29udGV4dC5wcmlzbWEubGlua3MoKQogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgIFF1ZXJ5OiB7CiAgICAgICAgaW5mbzogKCkgPT4gJ1RoaXMgaXMgdGhlIEFQSSBvZiBoYWNrZXJuZXdzIGNsb25lJywKICAgIH0sCiAgICBNdXRhdGlvbjogewogICAgICAgIHBvc3Q6IChwYXJlbnQsIGFyZ3MsIGNvbnRleHQpID0+IHsKICAgICAgICAgICAgcmV0dXJuIGNvbnRleHQucHJpc21hLmNyZWF0ZUxpbmsoewogICAgICAgICAgICAgICAgZGVzY3JpcHRpb246IGFyZ3MuZGVzY3JpcHRpb24sCiAgICAgICAgICAgICAgICB1cmw6IGFyZ3MudXJsLAogICAgICAgICAgICB9KQogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">TXV0YXRpb246IHsKICAgICAgICBwb3N0OiAocGFyZW50LCBhcmdzKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGxpbmsgPSB7CiAgICAgICAgICAgICAgICBpZDogYGxpbmstJHtpZENvdW50Kyt9YCwKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBhcmdzLmRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgdXJsOiBhcmdzLnVybAogICAgICAgICAgICB9OwogICAgICAgICAgICBsaW5rcy5wdXNoKGxpbmspOwogICAgICAgICAgICByZXR1cm4gbGluazsKICAgICAgICB9LA==</text>
+        <text encoding="base64">ICAgICAgICBmZWVkOiAocm9vdCwgYXJncywgY29udGV4dCwgaW5mbykgPT4gewogICAgICAgICAgICByZXR1cm4gY29udGV4dC5wcmlzbWEubGlua3MoKQogICAgICAgIH0=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">TXV0YXRpb246IHsKICAgICAgICBwb3N0OiAocGFyZW50LCBhcmdzKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGxpbmsgPSB7CiAgICAgICAgICAgICAgICBpZDogYGxpbmstJHtpZENvdW50Kyt9YCwKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBhcmdzLmRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgdXJsOiBhcmdzLnVybAogICAgICAgICAgICB9OwogICAgICAgICAgICBsaW5rcy5wdXNoKGxpbmspOwogICAgICAgICAgICByZXR1cm4gbGluazsKICAgICAgICB9LA==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">dXBkYXRlTGluazogKHBhcmVudCwgYXJncykgPT4gewogICAgICAgICAgICBjb25zdCBpbmRleCA9IGxpbmtzLmZpbmRJbmRleChvYmogPT4gb2JqLmlkID09PSBhcmdzLmlkKTsKICAgICAgICAgICAgbGlua3NbaW5kZXhdLmRlc2NyaXB0aW9uID0gYXJncy5kZXNjcmlwdGlvbiB8fCBsaW5rc1tpbmRleF0uZGVzY3JpcHRpb247CiAgICAgICAgICAgIGxpbmtzW2luZGV4XS51cmwgPSBhcmdzLnVybCB8fCBsaW5rc1tpbmRleF0udXJsOwoKICAgICAgICAgICAgcmV0dXJuIGxpbmtzW2luZGV4XTsKICAgICAgICB9LAogICAgICAgIGRlbGV0ZUxpbms6IChwYXJlbnQsIGFyZ3MpID0+IHsKICAgICAgICAgICAgY29uc3QgaW5kZXggPSBsaW5rcy5maW5kSW5kZXgob2JqID0+IG9iai5pZCA9PT0gYXJncy5pZCk7CiAgICAgICAgICAgIGNvbnN0IGxpbmsgPSBsaW5rc1tpbmRleF07CgogICAgICAgICAgICBkZWxldGUgbGlua3NbaW5kZXhdOwogICAgICAgICAgICByZXR1cm4gbGluazsKICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsaW5rc1tpbmRleF07Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGluZGV4ID0gbGlua3MuZmluZEluZGV4KG9iaiA9PiBvYmouaWQgPT09IGlkKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBsaW5rc1tpbmRleF07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0TGluayhpZCkgewo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGluZGV4ID0gbGlua3MuZmluZEluZGV4KG9iaiA9PiBvYmouaWQgPT09IGlkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0TGluayhpZCkgewo=</text>
       </register>
     </registers>
     <search>
