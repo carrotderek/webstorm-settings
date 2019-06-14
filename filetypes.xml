@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="prisma" type="GraphQL" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="PLAIN_TEXT" />
+      <removed_mapping ext="prisma" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
