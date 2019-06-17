@@ -31,11 +31,12 @@
       <file name="$USER_HOME$/development/hackernews-node/prisma/prisma.yml" timestamp="1560488822649">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/mam/src/shared-tracking.js" timestamp="1560800401613" />
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/blacklist.service.ts" timestamp="1560538292151" />
       <file name="$USER_HOME$/development/dotfiles/system/.alias.osx" timestamp="1559933959832">
         <mark key="[" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/a.directive.ts" timestamp="1560794284185" />
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/a.directive.ts" timestamp="1560800262113" />
       <file name="$USER_HOME$/development/sigfig/ngts/mam/test/unit/sigfig/cms/sf-translate.directive.test.js" timestamp="1558728067056">
         <mark key="[" line="0" column="0" />
       </file>
@@ -56,6 +57,7 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/dtm-rules-provider.ts" timestamp="1560800529626" />
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/common.bundle.ts" timestamp="1558763476763">
         <mark key="[" line="154" column="26" />
       </file>
@@ -132,13 +134,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/sigfig-config.wellsfargo.ts" timestamp="1560800484173" />
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-us-daytime-phone.component.html" timestamp="1557516127194">
         <mark key="[" line="26" column="6" />
       </file>
       <file name="$USER_HOME$/development/sigfig/ngts/webpack/common.config.ts" timestamp="1557422323222">
         <mark key="[" line="61" column="19" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/analytics-config.interface.ts" timestamp="1560794834007" />
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/analytics-config.interface.ts" timestamp="1560800301109" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_46.json" timestamp="1559334550947">
         <mark key="[" line="59" column="45" />
       </file>
@@ -186,7 +189,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1556222054579">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/analytics.module.ts" timestamp="1560537895398" />
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/analytics.module.ts" timestamp="1560800268058" />
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/copilot/pending/pending-copilot-progress-bar.directive.ubs.scss" timestamp="1556310625967">
         <mark key="[" line="6" column="55" />
       </file>
@@ -235,11 +238,6 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/account-profile-sanitize.service.ts" timestamp="1557286171492">
         <mark key="[" line="133" column="19" />
       </file>
-      <file name="$USER_HOME$/development/hackernews-node/src/schema.graphql" timestamp="1560491937757">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/fam/src/app/routing/abstract-routing.service.ts" timestamp="1557421779255">
         <mark key="[" line="212" column="62" />
       </file>
@@ -261,11 +259,6 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560459573788">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/account-profile/partner-profile.service.ubs.ts" timestamp="1556559681703">
         <mark key="[" line="216" column="37" />
       </file>
@@ -279,7 +272,7 @@
       <file name="$USER_HOME$/development/sigfig/ngts/ngts_copilot_lib/src/app/paperwork/sections/paperwork-email-dropdown.component.html" timestamp="1557431039857">
         <mark key="[" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/analytics-data-service-provider-overrides.citizens.ts" timestamp="1560794515740" />
+      <file name="$USER_HOME$/development/sigfig/ngts/ngts_services/src/app/analytics/analytics-data-service-provider-overrides.citizens.ts" timestamp="1560800366855" />
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
