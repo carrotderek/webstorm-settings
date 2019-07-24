@@ -34,8 +34,8 @@
     <mask>*.html</mask>
     <mask>*.htm</mask>
     <mask>*.component.*</mask>
-    <mask>*.*</mask>
     <mask>*.*test.*</mask>
+    <mask>*.*</mask>
     <mask>*.*</mask>
   </component>
 </application>
