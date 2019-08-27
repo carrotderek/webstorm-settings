@@ -32,8 +32,8 @@
     <mask>*.component.*</mask>
     <mask>*.*test.*</mask>
     <mask>*.ts</mask>
-    <mask>*.*</mask>
     <mask>*.html</mask>
+    <mask>*.*</mask>
     <mask>*.*</mask>
   </component>
 </application>
