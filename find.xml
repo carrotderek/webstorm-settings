@@ -33,6 +33,7 @@
     <mask>*.*test.*</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.test.js</mask>
     <mask>*.*</mask>
     <mask>*.*</mask>
   </component>
