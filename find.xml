@@ -5,8 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="*questionnaire*" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -36,5 +35,6 @@
     <mask>*dialog*</mask>
     <mask>*.*</mask>
     <mask>*.*</mask>
+    <mask>*questionnaire*</mask>
   </component>
 </application>
