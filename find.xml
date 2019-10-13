@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.component.*" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -32,9 +32,9 @@
     <mask>*dialog*</mask>
     <mask>*questionnaire*</mask>
     <mask>config_base.js</mask>
-    <mask>*.*</mask>
     <mask>*.test.*</mask>
     <mask>*.*</mask>
     <mask>*.component.*</mask>
+    <mask>*.*</mask>
   </component>
 </application>
