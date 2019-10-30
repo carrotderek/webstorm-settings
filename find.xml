@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="SAPH-1616 OLS View - Read/Write - Homepage not loading any accounts" />
+    <option name="defaultScopeName" value="SAPH-1616 OLS View - Read/Write - Homepage not loading any accounts" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="SEARCH_SCOPE" value="SAPH-1616 OLS View - Read/Write - Homepage not loading any accounts" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.html1</mask>
@@ -30,11 +30,11 @@
     <mask>*questionnaire*</mask>
     <mask>config_base.js</mask>
     <mask>*.component.*</mask>
-    <mask>*.html</mask>
     <mask>*.html*</mask>
     <mask>*.test.*</mask>
     <mask>*.*</mask>
     <mask>*.*</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
