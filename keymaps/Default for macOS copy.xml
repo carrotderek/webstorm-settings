@@ -1,0 +1,9 @@
+<keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="VimAutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <keyboard-shortcut first-keystroke="equals" second-keystroke="equals" />
+  </action>
+  <action id="VimDeleteLine">
+    <keyboard-shortcut first-keystroke="d" second-keystroke="d" />
+  </action>
+</keymap>
