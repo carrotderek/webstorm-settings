@@ -5,16 +5,16 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.test.*" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.css</mask>
     <mask>*.*</mask>
     <mask>*.py</mask>
-    <mask>*.test.*</mask>
     <mask>*test*</mask>
     <mask>*action*</mask>
     <mask>*.js</mask>
+    <mask>*.test.*</mask>
   </component>
 </application>
