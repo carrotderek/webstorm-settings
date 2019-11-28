@@ -18,5 +18,8 @@
     <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
   <action id="EditorDeleteToWordStart" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
   <action id="SelectNextOccurrence" />
 </keymap>
