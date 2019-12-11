@@ -5,11 +5,10 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
-    <mask>*.*</mask>
     <mask>*test*</mask>
     <mask>*action*</mask>
     <mask>*.css</mask>
@@ -19,5 +18,7 @@
     <mask>variables.css</mask>
     <mask>*.test.*</mask>
     <mask>*.js</mask>
+    <mask>*test.*</mask>
+    <mask>*.*</mask>
   </component>
 </application>
