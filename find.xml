@@ -2,14 +2,15 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*test*</mask>
     <mask>*action*</mask>
-    <mask>*.py</mask>
     <mask>infosec-program.reducer.js</mask>
     <mask>*preview*.js</mask>
     <mask>variables.css</mask>
@@ -18,5 +19,6 @@
     <mask>*.css</mask>
     <mask>*.test.*</mask>
     <mask>*.js</mask>
+    <mask>*.py</mask>
   </component>
 </application>
