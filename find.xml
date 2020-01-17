@@ -15,9 +15,9 @@
     <mask>*test.*</mask>
     <mask>*.*</mask>
     <mask>*.css</mask>
-    <mask>*.test.*</mask>
     <mask>*actions.js</mask>
     <mask>*.py</mask>
+    <mask>*.test.*</mask>
     <mask>*.js</mask>
   </component>
 </application>
