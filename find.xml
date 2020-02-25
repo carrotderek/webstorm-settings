@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.actions.js" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
@@ -20,5 +21,6 @@
     <mask>*.py</mask>
     <mask>*.test.js</mask>
     <mask>*.js</mask>
+    <mask>*.actions.js</mask>
   </component>
 </application>
