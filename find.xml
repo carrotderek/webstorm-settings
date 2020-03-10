@@ -21,5 +21,6 @@
     <mask>*.actions.js</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*.mdx</mask>
   </component>
 </application>
