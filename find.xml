@@ -15,12 +15,12 @@
     <mask>*.*</mask>
     <mask>*.css</mask>
     <mask>*actions.js</mask>
-    <mask>*.test.*</mask>
     <mask>*bitbucket*.js</mask>
     <mask>*.test.js</mask>
     <mask>*.actions.js</mask>
     <mask>*.js</mask>
     <mask>*.mdx</mask>
     <mask>*.py</mask>
+    <mask>*.test.*</mask>
   </component>
 </application>
