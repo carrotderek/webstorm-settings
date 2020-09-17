@@ -4,7 +4,7 @@
     <property name="created">2020-09-16T09:49:30</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-09-17T13:48:36</property>
+    <property name="modified">2020-09-17T15:43:22</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -19,12 +19,14 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Inconsolata Awesome" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="SourceCodePro+Powerline+Awesome Regular" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="9ccc65" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -299,7 +301,7 @@
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7fdbca" />
+        <option name="FOREGROUND" value="21c7a8" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -314,7 +316,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="67db76" />
+        <option name="FOREGROUND" value="22da6e" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -719,25 +721,25 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="4e2727" />
+        <option name="BACKGROUND" value="71258d" />
         <option name="ERROR_STRIPE_COLOR" value="b03435" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="41454b" />
+        <option name="BACKGROUND" value="960000" />
         <option name="ERROR_STRIPE_COLOR" value="656e76" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="374b2c" />
+        <option name="BACKGROUND" value="9662" />
         <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="675433" />
+        <option name="BACKGROUND" value="969400" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>

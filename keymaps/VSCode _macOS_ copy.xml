@@ -1,0 +1,26 @@
+<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="CloseAllEditors" />
+  <action id="CloseProject" />
+  <action id="CollapseAllRegions" />
+  <action id="CollapseRegionRecursively" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="CompareClipboardWithSelection" />
+  <action id="EditSourceInNewWindow" />
+  <action id="ExpandAllRegions" />
+  <action id="ExpandRegionRecursively" />
+  <action id="Help.KeymapReference" />
+  <action id="JumpToLastChange" />
+  <action id="QuickChangeScheme" />
+  <action id="RevealIn" />
+  <action id="ToggleDistractionFreeMode" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction" />
+</keymap>
